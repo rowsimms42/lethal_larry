@@ -1,0 +1,6740 @@
+fileFormatVersion: 2
+guid: 0150639135d520b458cdb8e30fdb5ea7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -872866260784490939
+    second: forestground06dv5_0
+  - first:
+      213: -9090447583934475525
+    second: forestground06dv5_1
+  - first:
+      213: -106187494916781284
+    second: forestground06dv5_2
+  - first:
+      213: -7895329411849932180
+    second: forestground06dv5_3
+  - first:
+      213: -2298500818347103145
+    second: forestground06dv5_4
+  - first:
+      213: -2385386603778994912
+    second: forestground06dv5_5
+  - first:
+      213: 3264079221112492217
+    second: forestground06dv5_6
+  - first:
+      213: -1384800325754456861
+    second: forestground06dv5_7
+  - first:
+      213: -7211934294101898872
+    second: forestground06dv5_8
+  - first:
+      213: -2301077221633325165
+    second: forestground06dv5_9
+  - first:
+      213: -2182136844474727418
+    second: forestground06dv5_10
+  - first:
+      213: -82819275868919894
+    second: forestground06dv5_11
+  - first:
+      213: 8313853167604987490
+    second: forestground06dv5_12
+  - first:
+      213: 7350043943910199703
+    second: forestground06dv5_13
+  - first:
+      213: 8506782556313214251
+    second: forestground06dv5_14
+  - first:
+      213: 9060210016850329677
+    second: forestground06dv5_15
+  - first:
+      213: 6285763559577059658
+    second: forestground06dv5_16
+  - first:
+      213: 3886525967302384998
+    second: forestground06dv5_17
+  - first:
+      213: 3429738652843131674
+    second: forestground06dv5_18
+  - first:
+      213: -2860340107180650747
+    second: forestground06dv5_19
+  - first:
+      213: 927942040734834265
+    second: forestground06dv5_20
+  - first:
+      213: -6411016390522989234
+    second: forestground06dv5_21
+  - first:
+      213: -4121241271031237331
+    second: forestground06dv5_22
+  - first:
+      213: 7425903737733856311
+    second: forestground06dv5_23
+  - first:
+      213: -4308115370126603138
+    second: forestground06dv5_24
+  - first:
+      213: 7894083772155326972
+    second: forestground06dv5_25
+  - first:
+      213: 5148847746098983161
+    second: forestground06dv5_26
+  - first:
+      213: -827940728067010851
+    second: forestground06dv5_27
+  - first:
+      213: 6986338754325956284
+    second: forestground06dv5_28
+  - first:
+      213: 102653094937888378
+    second: forestground06dv5_29
+  - first:
+      213: -3098026274073692193
+    second: forestground06dv5_30
+  - first:
+      213: -178838739805806473
+    second: forestground06dv5_31
+  - first:
+      213: -2940196860602670760
+    second: forestground06dv5_32
+  - first:
+      213: 5908241480793278000
+    second: forestground06dv5_33
+  - first:
+      213: 29787199148399627
+    second: forestground06dv5_34
+  - first:
+      213: -1671874393777657011
+    second: forestground06dv5_35
+  - first:
+      213: 1166353607838991150
+    second: forestground06dv5_36
+  - first:
+      213: -3427767187273274008
+    second: forestground06dv5_37
+  - first:
+      213: -8481747204161255031
+    second: forestground06dv5_38
+  - first:
+      213: -2551479382713294097
+    second: forestground06dv5_39
+  - first:
+      213: 867151671623001263
+    second: forestground06dv5_40
+  - first:
+      213: -956710244034715882
+    second: forestground06dv5_41
+  - first:
+      213: -3680150118164472567
+    second: forestground06dv5_42
+  - first:
+      213: 74603323898995537
+    second: forestground06dv5_43
+  - first:
+      213: -6140466194609420279
+    second: forestground06dv5_44
+  - first:
+      213: 3002423275669121649
+    second: forestground06dv5_45
+  - first:
+      213: -8722833397285817450
+    second: forestground06dv5_46
+  - first:
+      213: -9020129764744799117
+    second: forestground06dv5_47
+  - first:
+      213: -859425343798208155
+    second: forestground06dv5_48
+  - first:
+      213: 8685318086188117369
+    second: forestground06dv5_49
+  - first:
+      213: 1829572320297610065
+    second: forestground06dv5_50
+  - first:
+      213: -3919633616842461859
+    second: forestground06dv5_51
+  - first:
+      213: 7154694134894127989
+    second: forestground06dv5_52
+  - first:
+      213: 1821747308440157561
+    second: forestground06dv5_53
+  - first:
+      213: -5788359679638762223
+    second: forestground06dv5_54
+  - first:
+      213: 7413887776578855739
+    second: forestground06dv5_55
+  - first:
+      213: -3907089068709805844
+    second: forestground06dv5_56
+  - first:
+      213: -4963520154501002242
+    second: forestground06dv5_57
+  - first:
+      213: 5695020630219797507
+    second: forestground06dv5_58
+  - first:
+      213: 9126446288444503829
+    second: forestground06dv5_59
+  - first:
+      213: 90446394834909847
+    second: forestground06dv5_60
+  - first:
+      213: 4481504722818085949
+    second: forestground06dv5_61
+  - first:
+      213: -1052853496206656154
+    second: forestground06dv5_62
+  - first:
+      213: 7168210299152961937
+    second: forestground06dv5_63
+  - first:
+      213: -8153696974628788835
+    second: forestground06dv5_64
+  - first:
+      213: 193788451702184379
+    second: forestground06dv5_65
+  - first:
+      213: -8854539039981438461
+    second: forestground06dv5_66
+  - first:
+      213: 5384990422826589757
+    second: forestground06dv5_67
+  - first:
+      213: 5189680570209222863
+    second: forestground06dv5_68
+  - first:
+      213: -8189283668650067787
+    second: forestground06dv5_69
+  - first:
+      213: 8171414596960092894
+    second: forestground06dv5_70
+  - first:
+      213: 4997069384067224364
+    second: forestground06dv5_71
+  - first:
+      213: 195199216223418827
+    second: forestground06dv5_72
+  - first:
+      213: 1516855192149042804
+    second: forestground06dv5_73
+  - first:
+      213: 6415749993385307752
+    second: forestground06dv5_74
+  - first:
+      213: -184152415679584418
+    second: forestground06dv5_75
+  - first:
+      213: 4581672479735583908
+    second: forestground06dv5_76
+  - first:
+      213: 3685565337071204494
+    second: forestground06dv5_77
+  - first:
+      213: 4276364476560953746
+    second: forestground06dv5_78
+  - first:
+      213: 8009186949797749787
+    second: forestground06dv5_79
+  - first:
+      213: -8825592925078242488
+    second: forestground06dv5_80
+  - first:
+      213: -3308370383570512801
+    second: forestground06dv5_81
+  - first:
+      213: 7760793009648340163
+    second: forestground06dv5_82
+  - first:
+      213: 3485983743628834157
+    second: forestground06dv5_83
+  - first:
+      213: 6317297727180280833
+    second: forestground06dv5_84
+  - first:
+      213: 8203602865125603778
+    second: forestground06dv5_85
+  - first:
+      213: 1683317995974293639
+    second: forestground06dv5_86
+  - first:
+      213: 2670707844727252417
+    second: forestground06dv5_87
+  - first:
+      213: 8041160905017732754
+    second: forestground06dv5_88
+  - first:
+      213: -5853563638810306115
+    second: forestground06dv5_89
+  - first:
+      213: 1132834539948862106
+    second: forestground06dv5_90
+  - first:
+      213: 3426932723085783590
+    second: forestground06dv5_91
+  - first:
+      213: -2642418751553584773
+    second: forestground06dv5_92
+  - first:
+      213: -6121866121825240240
+    second: forestground06dv5_93
+  - first:
+      213: -2617409783502470497
+    second: forestground06dv5_94
+  - first:
+      213: 6395979281803018003
+    second: forestground06dv5_95
+  - first:
+      213: 6649489335415881764
+    second: forestground06dv5_96
+  - first:
+      213: 944964248518850603
+    second: forestground06dv5_97
+  - first:
+      213: 3882509853049400833
+    second: forestground06dv5_98
+  - first:
+      213: -7028060581173357481
+    second: forestground06dv5_99
+  - first:
+      213: 5738997496148391893
+    second: forestground06dv5_100
+  - first:
+      213: -4306043664451180452
+    second: forestground06dv5_101
+  - first:
+      213: -6241184598509483437
+    second: forestground06dv5_102
+  - first:
+      213: -399661067043607210
+    second: forestground06dv5_103
+  - first:
+      213: -4045503377908011254
+    second: forestground06dv5_104
+  - first:
+      213: -5394592152036206372
+    second: forestground06dv5_105
+  - first:
+      213: 3147413219815767586
+    second: forestground06dv5_106
+  - first:
+      213: 5786930530077848253
+    second: forestground06dv5_107
+  - first:
+      213: -4522742512273779097
+    second: forestground06dv5_108
+  - first:
+      213: 2797054099044533292
+    second: forestground06dv5_109
+  - first:
+      213: 5427687604292089823
+    second: forestground06dv5_110
+  - first:
+      213: -5771117112723447103
+    second: forestground06dv5_111
+  - first:
+      213: 6691673807268144900
+    second: forestground06dv5_112
+  - first:
+      213: 6552260295372009960
+    second: forestground06dv5_113
+  - first:
+      213: -1231885157731358080
+    second: forestground06dv5_114
+  - first:
+      213: 4048818719004886851
+    second: forestground06dv5_115
+  - first:
+      213: 8513413261598396692
+    second: forestground06dv5_116
+  - first:
+      213: -7586006406113959614
+    second: forestground06dv5_117
+  - first:
+      213: 6203090072472100291
+    second: forestground06dv5_118
+  - first:
+      213: -1691061773120006647
+    second: forestground06dv5_119
+  - first:
+      213: 1869911521779620042
+    second: forestground06dv5_120
+  - first:
+      213: 1343236969888607539
+    second: forestground06dv5_121
+  - first:
+      213: 3760612064312660868
+    second: forestground06dv5_122
+  - first:
+      213: 8307485167110140957
+    second: forestground06dv5_123
+  - first:
+      213: 1481112722595908397
+    second: forestground06dv5_124
+  - first:
+      213: -2555930225934076739
+    second: forestground06dv5_125
+  - first:
+      213: 339533083813516234
+    second: forestground06dv5_126
+  - first:
+      213: 3252375845618741771
+    second: forestground06dv5_127
+  - first:
+      213: -7027555899954168705
+    second: forestground06dv5_128
+  - first:
+      213: 1007279709510813634
+    second: forestground06dv5_129
+  - first:
+      213: -5139120330218354658
+    second: forestground06dv5_130
+  - first:
+      213: 4952361633444387528
+    second: forestground06dv5_131
+  - first:
+      213: 5000605822320166210
+    second: forestground06dv5_132
+  - first:
+      213: 824281150436552263
+    second: forestground06dv5_133
+  - first:
+      213: -4681981971837955101
+    second: forestground06dv5_134
+  - first:
+      213: 8624863720061609192
+    second: forestground06dv5_135
+  - first:
+      213: 8833326358653680736
+    second: forestground06dv5_136
+  - first:
+      213: -2523749965571192570
+    second: forestground06dv5_137
+  - first:
+      213: -7326464222993274563
+    second: forestground06dv5_138
+  - first:
+      213: -3902498329433067439
+    second: forestground06dv5_139
+  - first:
+      213: -5670043519486958648
+    second: forestground06dv5_140
+  - first:
+      213: 265818897935378085
+    second: forestground06dv5_141
+  - first:
+      213: 4015543276631470403
+    second: forestground06dv5_142
+  - first:
+      213: 8321453276309817533
+    second: forestground06dv5_143
+  - first:
+      213: 1272565679135851918
+    second: forestground06dv5_144
+  - first:
+      213: -6732132141562762481
+    second: forestground06dv5_145
+  - first:
+      213: 5567974791428245471
+    second: forestground06dv5_146
+  - first:
+      213: 8583858281104480117
+    second: forestground06dv5_147
+  - first:
+      213: 2969066800550438743
+    second: forestground06dv5_148
+  - first:
+      213: 4905203694626437422
+    second: forestground06dv5_149
+  - first:
+      213: -7797380587816801902
+    second: forestground06dv5_150
+  - first:
+      213: -2225546775624197073
+    second: forestground06dv5_151
+  - first:
+      213: -774254031900532965
+    second: forestground06dv5_152
+  - first:
+      213: -8975098488010345220
+    second: forestground06dv5_153
+  - first:
+      213: -3699775261381723586
+    second: forestground06dv5_154
+  - first:
+      213: -5167874648130895771
+    second: forestground06dv5_155
+  - first:
+      213: -2983175943197418264
+    second: forestground06dv5_156
+  - first:
+      213: 7279584998246394373
+    second: forestground06dv5_157
+  - first:
+      213: -7929263842906450611
+    second: forestground06dv5_158
+  - first:
+      213: 1391604940916710609
+    second: forestground06dv5_159
+  - first:
+      213: 7535974829852874816
+    second: forestground06dv5_160
+  - first:
+      213: 6935939888005343882
+    second: forestground06dv5_161
+  - first:
+      213: -8859034078933888074
+    second: forestground06dv5_162
+  - first:
+      213: -8825212890098798419
+    second: forestground06dv5_163
+  - first:
+      213: 4283124012681384255
+    second: forestground06dv5_164
+  - first:
+      213: -4258010533056755383
+    second: forestground06dv5_165
+  - first:
+      213: -8481531478341655030
+    second: forestground06dv5_166
+  - first:
+      213: -4365054097708900544
+    second: forestground06dv5_167
+  - first:
+      213: -7957784496894128938
+    second: forestground06dv5_168
+  - first:
+      213: -4064839004400746488
+    second: forestground06dv5_169
+  - first:
+      213: 3366071209552218125
+    second: forestground06dv5_170
+  - first:
+      213: -607742522041422455
+    second: forestground06dv5_171
+  - first:
+      213: 3253961634302261680
+    second: forestground06dv5_172
+  - first:
+      213: -2547732217084410793
+    second: forestground06dv5_173
+  - first:
+      213: 934532876780512595
+    second: forestground06dv5_174
+  - first:
+      213: -2897070818886566608
+    second: forestground06dv5_175
+  - first:
+      213: -4843752078438125404
+    second: forestground06dv5_176
+  - first:
+      213: -4429815466917510505
+    second: forestground06dv5_177
+  - first:
+      213: -7297012731718356917
+    second: forestground06dv5_178
+  - first:
+      213: 6217102712842314145
+    second: forestground06dv5_179
+  - first:
+      213: 2203263245296934334
+    second: forestground06dv5_180
+  - first:
+      213: 3735352051861206971
+    second: forestground06dv5_181
+  - first:
+      213: -2545461238773009844
+    second: forestground06dv5_182
+  - first:
+      213: 2057127831641671419
+    second: forestground06dv5_183
+  - first:
+      213: -4502876787820412218
+    second: forestground06dv5_184
+  - first:
+      213: -1466024462739973034
+    second: forestground06dv5_185
+  - first:
+      213: -3827087052867863674
+    second: forestground06dv5_186
+  - first:
+      213: -2854175117399531332
+    second: forestground06dv5_187
+  - first:
+      213: -1103597660766433035
+    second: forestground06dv5_188
+  - first:
+      213: 5102306478737037218
+    second: forestground06dv5_189
+  - first:
+      213: -7987259252073645198
+    second: forestground06dv5_190
+  - first:
+      213: 7496512077354228443
+    second: forestground06dv5_191
+  - first:
+      213: 2992771505633853383
+    second: forestground06dv5_192
+  - first:
+      213: -6133167932117890719
+    second: forestground06dv5_193
+  - first:
+      213: -6740450254712984204
+    second: forestground06dv5_194
+  - first:
+      213: 2487472440584322832
+    second: forestground06dv5_195
+  - first:
+      213: -6527814461716689729
+    second: forestground06dv5_196
+  - first:
+      213: 1702296569839661081
+    second: forestground06dv5_197
+  - first:
+      213: 2476533701256728036
+    second: forestground06dv5_198
+  - first:
+      213: -6382922748147948864
+    second: forestground06dv5_199
+  - first:
+      213: 8431325336026016404
+    second: forestground06dv5_200
+  - first:
+      213: 835250935746574021
+    second: forestground06dv5_201
+  - first:
+      213: -5136363655122828341
+    second: forestground06dv5_202
+  - first:
+      213: -4551430780102270514
+    second: forestground06dv5_203
+  - first:
+      213: -1113666822098363935
+    second: forestground06dv5_204
+  - first:
+      213: 7688392009678119711
+    second: forestground06dv5_205
+  - first:
+      213: 3616592814883831106
+    second: forestground06dv5_206
+  - first:
+      213: -5341842293690807222
+    second: forestground06dv5_207
+  - first:
+      213: -5489773497781138404
+    second: forestground06dv5_208
+  - first:
+      213: 6619160120766336879
+    second: forestground06dv5_209
+  - first:
+      213: 502433214309510738
+    second: forestground06dv5_210
+  - first:
+      213: 1050317177907180098
+    second: forestground06dv5_211
+  - first:
+      213: -1979086748670503841
+    second: forestground06dv5_212
+  - first:
+      213: 831787900949826257
+    second: forestground06dv5_213
+  - first:
+      213: 7754003462018989911
+    second: forestground06dv5_214
+  - first:
+      213: 1859371570900954096
+    second: forestground06dv5_215
+  - first:
+      213: 1090364121498304278
+    second: forestground06dv5_216
+  - first:
+      213: -5749220612935869088
+    second: forestground06dv5_217
+  - first:
+      213: -5996703812128109541
+    second: forestground06dv5_218
+  - first:
+      213: -2155970748618382546
+    second: forestground06dv5_219
+  - first:
+      213: 7685109180478319087
+    second: forestground06dv5_220
+  - first:
+      213: 4584864046929044273
+    second: forestground06dv5_221
+  - first:
+      213: -7976332107160249590
+    second: forestground06dv5_222
+  - first:
+      213: 7408511893308045462
+    second: forestground06dv5_223
+  - first:
+      213: -8294865810371354219
+    second: forestground06dv5_224
+  - first:
+      213: -3498141898514054336
+    second: forestground06dv5_225
+  - first:
+      213: 2640890031073234151
+    second: forestground06dv5_226
+  - first:
+      213: 2762633238204345639
+    second: forestground06dv5_227
+  - first:
+      213: 6012532088334525578
+    second: forestground06dv5_228
+  - first:
+      213: 3861037562331777000
+    second: forestground06dv5_229
+  - first:
+      213: 2646725676501375685
+    second: forestground06dv5_230
+  - first:
+      213: 5232946371889743536
+    second: forestground06dv5_231
+  - first:
+      213: 4660490446351662736
+    second: forestground06dv5_232
+  - first:
+      213: -5031755732035356064
+    second: forestground06dv5_233
+  - first:
+      213: 6579577244634978146
+    second: forestground06dv5_234
+  - first:
+      213: 3565398622369039883
+    second: forestground06dv5_235
+  - first:
+      213: -3475655670567472163
+    second: forestground06dv5_236
+  - first:
+      213: -4284856138819245412
+    second: forestground06dv5_237
+  - first:
+      213: 585535254796350356
+    second: forestground06dv5_238
+  - first:
+      213: -1609063047832506536
+    second: forestground06dv5_239
+  - first:
+      213: 2126209637735644228
+    second: forestground06dv5_240
+  - first:
+      213: -3110175340120442792
+    second: forestground06dv5_241
+  - first:
+      213: -2838443188256218661
+    second: forestground06dv5_242
+  - first:
+      213: 5965130755298419839
+    second: forestground06dv5_243
+  - first:
+      213: -3444653874715828851
+    second: forestground06dv5_244
+  - first:
+      213: 4134875614866321894
+    second: forestground06dv5_245
+  - first:
+      213: -6049933949565889697
+    second: forestground06dv5_246
+  - first:
+      213: 7242057540675063765
+    second: forestground06dv5_247
+  - first:
+      213: -5929273870156687442
+    second: forestground06dv5_248
+  - first:
+      213: -6350397505542915913
+    second: forestground06dv5_249
+  - first:
+      213: -1041926443550764453
+    second: forestground06dv5_250
+  - first:
+      213: 1814438907271299044
+    second: forestground06dv5_251
+  - first:
+      213: 5371859784525066018
+    second: forestground06dv5_252
+  - first:
+      213: 1444376207228011209
+    second: forestground06dv5_253
+  - first:
+      213: -6737364181143381038
+    second: forestground06dv5_254
+  - first:
+      213: -3203996123480129364
+    second: forestground06dv5_255
+  - first:
+      213: -5123635937555709978
+    second: forestground06dv5_256
+  - first:
+      213: -4131146654043678511
+    second: forestground06dv5_257
+  - first:
+      213: 8283638847256356939
+    second: forestground06dv5_258
+  - first:
+      213: 6278375757637931635
+    second: forestground06dv5_259
+  - first:
+      213: -7119031223355078630
+    second: forestground06dv5_260
+  - first:
+      213: -4183099436309889592
+    second: forestground06dv5_261
+  - first:
+      213: 2612978554964566422
+    second: forestground06dv5_262
+  - first:
+      213: -782639427101929999
+    second: forestground06dv5_263
+  - first:
+      213: 459898684326613124
+    second: forestground06dv5_264
+  - first:
+      213: 8370750918806410364
+    second: forestground06dv5_265
+  - first:
+      213: 650352336728672373
+    second: forestground06dv5_266
+  - first:
+      213: -3540267590568748500
+    second: forestground06dv5_267
+  - first:
+      213: 6109877259213552466
+    second: forestground06dv5_268
+  - first:
+      213: -1244751438874219960
+    second: forestground06dv5_269
+  - first:
+      213: -7319258547508798693
+    second: forestground06dv5_270
+  - first:
+      213: -4243476804488914138
+    second: forestground06dv5_271
+  - first:
+      213: -6844202233923434137
+    second: forestground06dv5_272
+  - first:
+      213: -4520877755574781818
+    second: forestground06dv5_273
+  - first:
+      213: 8027838406385614142
+    second: forestground06dv5_274
+  - first:
+      213: 5960250384158214291
+    second: forestground06dv5_275
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forestground06dv5_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546548da2c4f2e3f0800000000000000
+      internalID: -872866260784490939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2174ee51e38d180800000000000000
+      internalID: -9090447583934475525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b85e5390fb68ef0800000000000000
+      internalID: -106187494916781284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62bdfd2bb72e6290800000000000000
+      internalID: -7895329411849932180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce9760fa51a10e0800000000000000
+      internalID: -2298500818347103145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d07cda58765eed0800000000000000
+      internalID: -2385386603778994912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0d42df1c65c4d20800000000000000
+      internalID: 3264079221112492217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e47f82d07338cce0800000000000000
+      internalID: -1384800325754456861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889499058ff0aeb90800000000000000
+      internalID: -7211934294101898872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3978dc3657ee010e0800000000000000
+      internalID: -2301077221633325165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604cac5f91e77b1e0800000000000000
+      internalID: -2182136844474727418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa72741be44c9def0800000000000000
+      internalID: -82819275868919894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266f9d1486db06370800000000000000
+      internalID: 8313853167604987490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7915748560a900660800000000000000
+      internalID: 7350043943910199703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dd9820aa92e0670800000000000000
+      internalID: 8506782556313214251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40ccccd1055cbd70800000000000000
+      internalID: 9060210016850329677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a418fae67a48b3750800000000000000
+      internalID: 6285763559577059658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dd36b86c6bfe530800000000000000
+      internalID: 3886525967302384998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13442b1221e89f20800000000000000
+      internalID: 3429738652843131674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fc1b6c3d70e48d0800000000000000
+      internalID: -2860340107180650747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e962e9e56b0ec00800000000000000
+      internalID: 927942040734834265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e459ba15f8e7707a0800000000000000
+      internalID: -6411016390522989234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f08636e86ec6c0800000000000000
+      internalID: -4121241271031237331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c3fd7fa1c1e0760800000000000000
+      internalID: 7425903737733856311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c043075ef7634c0800000000000000
+      internalID: -4308115370126603138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf17e7abd5b6d8d60800000000000000
+      internalID: 7894083772155326972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0fcccceb1647740800000000000000
+      internalID: 5148847746098983161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddecc706b409284f0800000000000000
+      internalID: -827940728067010851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c424f41674f060800000000000000
+      internalID: 6986338754325956284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a760eda2272bc6100800000000000000
+      internalID: 102653094937888378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7b20d84899105d0800000000000000
+      internalID: -3098026274073692193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770ebc91d13a48df0800000000000000
+      internalID: -178838739805806473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8512f0a78825237d0800000000000000
+      internalID: -2940196860602670760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03649e5d25a4ef150800000000000000
+      internalID: 5908241480793278000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c1810cc43d96000800000000000000
+      internalID: 29787199148399627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bafc9c81f4cc8e0800000000000000
+      internalID: -1671874393777657011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e230dbd3d68bf2010800000000000000
+      internalID: 1166353607838991150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d26dd77ef1e60d0800000000000000
+      internalID: -3427767187273274008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9894e452bd7ca4a80800000000000000
+      internalID: -8481747204161255031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe224ad0503579cd0800000000000000
+      internalID: -2551479382713294097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a979d9ddb80c00800000000000000
+      internalID: 867151671623001263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f55571a1519b2f0800000000000000
+      internalID: -956710244034715882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_42
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dd1be37fa7decc0800000000000000
+      internalID: -3680150118164472567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153201ce35b090100800000000000000
+      internalID: 74603323898995537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908c203978ea8caa0800000000000000
+      internalID: -6140466194609420279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a6f9bcf00caa920800000000000000
+      internalID: 3002423275669121649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6937ddf9d3542f680800000000000000
+      internalID: -8722833397285817450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c557805cf02d280800000000000000
+      internalID: -9020129764744799117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56990f70435b214f0800000000000000
+      internalID: -859425343798208155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97da48858c2788870800000000000000
+      internalID: 8685318086188117369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15be932f452f36910800000000000000
+      internalID: 1829572320297610065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dec6a1ef9aa99c0800000000000000
+      internalID: -3919633616842461859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6fe298649a4360800000000000000
+      internalID: 7154694134894127989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d79166685284910800000000000000
+      internalID: 1821747308440157561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d00f61a8d9bafa0800000000000000
+      internalID: -5788359679638762223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33e79ff6ab63e660800000000000000
+      internalID: 7413887776578855739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce08db1513b37c9c0800000000000000
+      internalID: -3907089068709805844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbc973a7b80e1bb0800000000000000
+      internalID: -4963520154501002242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304b5c4f617c80f40800000000000000
+      internalID: 5695020630219797507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517ba6c9b86a7ae70800000000000000
+      internalID: 9126446288444503829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a79535484514100800000000000000
+      internalID: 90446394834909847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34bec62dc0813e30800000000000000
+      internalID: 4481504722818085949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66df21ec2538361f0800000000000000
+      internalID: -1052853496206656154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1911f4cc9499a7360800000000000000
+      internalID: 7168210299152961937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95e21d3dcf38de80800000000000000
+      internalID: -8153696974628788835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb91841f19970b200800000000000000
+      internalID: 193788451702184379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30af31018ab5e1580800000000000000
+      internalID: -8854539039981438461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e957732445bba40800000000000000
+      internalID: 5384990422826589757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc041158bf2750840800000000000000
+      internalID: 5189680570209222863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8743d54e1d95e80800000000000000
+      internalID: -8189283668650067787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed28f3c2842b66170800000000000000
+      internalID: 8171414596960092894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c239e431128295540800000000000000
+      internalID: 4997069384067224364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc97e6727ac75b200800000000000000
+      internalID: 195199216223418827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47620c7b2c3fc0510800000000000000
+      internalID: 1516855192149042804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e227b70a2590950800000000000000
+      internalID: 6415749993385307752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5763e68a52c17df0800000000000000
+      internalID: -184152415679584418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a492d778de559f30800000000000000
+      internalID: 4581672479735583908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e883f98a522c52330800000000000000
+      internalID: 3685565337071204494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_78
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d38395d2b85b30800000000000000
+      internalID: 4276364476560953746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14a36aa819562f60800000000000000
+      internalID: 8009186949797749787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bb280aef1358580800000000000000
+      internalID: -8825592925078242488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_81
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f545bd52aae4612d0800000000000000
+      internalID: -3308370383570512801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc8c63bf10e3bb60800000000000000
+      internalID: 7760793009648340163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6578cbceb3b06030800000000000000
+      internalID: 3485983743628834157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10496f8ffcc8ba750800000000000000
+      internalID: 6317297727180280833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9303e575d09d170800000000000000
+      internalID: 8203602865125603778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788f11a7cc85c5710800000000000000
+      internalID: 1683317995974293639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c521df72a2401520800000000000000
+      internalID: 2670707844727252417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e275d3d31f79f60800000000000000
+      internalID: 8041160905017732754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9919e42e6f3cea0800000000000000
+      internalID: -5853563638810306115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ae1f61303a8bf00800000000000000
+      internalID: 1132834539948862106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622b0bca729ee8f20800000000000000
+      internalID: 3426932723085783590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7141d5452e345bd0800000000000000
+      internalID: -2642418751553584773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_93
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bbb1e7233ca0ba0800000000000000
+      internalID: -6121866121825240240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9204b66ba71dabd0800000000000000
+      internalID: -2617409783502470497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_95
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f70aaf44513c850800000000000000
+      internalID: 6395979281803018003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420463fe15bb74c50800000000000000
+      internalID: 6649489335415881764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28f8663aff2d1d00800000000000000
+      internalID: 944964248518850603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ea6f3142271e530800000000000000
+      internalID: 3882509853049400833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_99
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7549c3f3320577e90800000000000000
+      internalID: -7028060581173357481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7f7c4f0d305af40800000000000000
+      internalID: 5738997496148391893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58e0110a1cdd34c0800000000000000
+      internalID: -4306043664451180452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a0434ccabd269a0800000000000000
+      internalID: -6241184598509483437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65def44806e147af0800000000000000
+      internalID: -399661067043607210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f662e9c1c7bd7c0800000000000000
+      internalID: -4045503377908011254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd895cdf40f8225b0800000000000000
+      internalID: -5394592152036206372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ebc70d5abddab20800000000000000
+      internalID: 3147413219815767586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2372918ae4f4050800000000000000
+      internalID: 5786930530077848253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7661d59c5adfb31c0800000000000000
+      internalID: -4522742512273779097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24891732e121d620800000000000000
+      internalID: 2797054099044533292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_110
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7fe957e15035b40800000000000000
+      internalID: 5427687604292089823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2e0fa009fd8efa0800000000000000
+      internalID: -5771117112723447103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_112
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e00bafd99ddc50800000000000000
+      internalID: 6691673807268144900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_113
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e17b85f50e4eea50800000000000000
+      internalID: 6552260295372009960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aa851d9f677eee0800000000000000
+      internalID: -1231885157731358080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_115
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3470d326c2b403830800000000000000
+      internalID: 4048818719004886851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_116
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4111ca36148b52670800000000000000
+      internalID: 8513413261598396692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2416db3bd5719b690800000000000000
+      internalID: -7586006406113959614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd93773e8dc51650800000000000000
+      internalID: 6203090072472100291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90690f7e6442888e0800000000000000
+      internalID: -1691061773120006647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac895113f9243f910800000000000000
+      internalID: 1869911521779620042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33de16748e224a210800000000000000
+      internalID: 1343236969888607539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48397677fb0603430800000000000000
+      internalID: 3760612064312660868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d143d6a9ebd1a4370800000000000000
+      internalID: 8307485167110140957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b04a68c28fd8410800000000000000
+      internalID: 1481112722595908397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_125
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4f38c5003878cd0800000000000000
+      internalID: -2555930225934076739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac392327a8346b400800000000000000
+      internalID: 339533083813516234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_127
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b027a2a8992c22d20800000000000000
+      internalID: 3252375845618741771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cf700842b197e90800000000000000
+      internalID: -7027555899954168705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_129
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7c9da1f839afd00800000000000000
+      internalID: 1007279709510813634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_130
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18c853b94d2ea8b0800000000000000
+      internalID: -5139120330218354658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cad9b8baa25ab440800000000000000
+      internalID: 4952361633444387528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245c4254088b56540800000000000000
+      internalID: 5000605822320166210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_133
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e22dec65f607b00800000000000000
+      internalID: 824281150436552263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3d0dbe332460fb0800000000000000
+      internalID: -4681981971837955101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e42d6e5bdba1b770800000000000000
+      internalID: 8624863720061609192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cb5a0b587469a70800000000000000
+      internalID: 8833326358653680736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609893817c6d9fcd0800000000000000
+      internalID: -2523749965571192570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39a0e04b9b235a90800000000000000
+      internalID: -7326464222993274563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_139
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1503699127a87d9c0800000000000000
+      internalID: -3902498329433067439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c369ffc575ff41b0800000000000000
+      internalID: -5670043519486958648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6260a11e060b300800000000000000
+      internalID: 265818897935378085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341b3d7b5531ab730800000000000000
+      internalID: 4015543276631470403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_143
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db805757aadbb7370800000000000000
+      internalID: 8321453276309817533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_144
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850f3a2ebf09a110800000000000000
+      internalID: 1272565679135851918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_145
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b69215c79a292a0800000000000000
+      internalID: -6732132141562762481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd70969829b654d40800000000000000
+      internalID: 5567974791428245471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_147
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577178f90adff1770800000000000000
+      internalID: 8583858281104480117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e639368e343920800000000000000
+      internalID: 2969066800550438743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29742975c8c21440800000000000000
+      internalID: 4905203694626437422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_150
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29927aceaa32ac390800000000000000
+      internalID: -7797380587816801902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c57efbff44d11e0800000000000000
+      internalID: -2225546775624197073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_152
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f97a66f0c4145f0800000000000000
+      internalID: -774254031900532965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_153
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf47ffd2a7b027380800000000000000
+      internalID: -8975098488010345220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_154
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a70948002c7acc0800000000000000
+      internalID: -3699775261381723586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_155
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560496a53650848b0800000000000000
+      internalID: -5167874648130895771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_156
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec1a330941a996d0800000000000000
+      internalID: -2983175943197418264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_157
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a2dbcacf7460560800000000000000
+      internalID: 7279584998246394373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d455631cb8895f190800000000000000
+      internalID: -7929263842906450611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd40b1259ff4310800000000000000
+      internalID: 1391604940916710609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485aa13e29259860800000000000000
+      internalID: 7535974829852874816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_161
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a65087498614060800000000000000
+      internalID: 6935939888005343882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3d01041736e0580800000000000000
+      internalID: -8859034078933888074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_163
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0767a62ab868580800000000000000
+      internalID: -8825212890098798419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31d1d8b896b07b30800000000000000
+      internalID: 4283124012681384255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c747eaf188e4c0800000000000000
+      internalID: -4258010533056755383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06e62abe0c8b4a80800000000000000
+      internalID: -8481531478341655030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_167
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f92b8dc663c63c0800000000000000
+      internalID: -4365054097708900544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcc3878925409190800000000000000
+      internalID: -7957784496894128938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8008a81467ac697c0800000000000000
+      internalID: -4064839004400746488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08870e4eefa6be20800000000000000
+      internalID: 3366071209552218125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d22da656dd097f0800000000000000
+      internalID: -607742522041422455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9f55dbdd4682d20800000000000000
+      internalID: 3253961634302261680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_173
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7548dd90c03a4acd0800000000000000
+      internalID: -2547732217084410793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_174
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3552d6733b028fc00800000000000000
+      internalID: 934532876780512595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_175
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dbd1780798bc7d0800000000000000
+      internalID: -2897070818886566608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0b2a0e52987ccb0800000000000000
+      internalID: -4843752078438125404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_177
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792c9d19d422682c0800000000000000
+      internalID: -4429815466917510505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_178
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40bc6ce49dcbba90800000000000000
+      internalID: -7297012731718356917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1651b4af5974650800000000000000
+      internalID: 6217102712842314145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd199a8f30939e10800000000000000
+      internalID: 2203263245296934334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_181
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7b63286e2a6d330800000000000000
+      internalID: 3735352051861206971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42b8616d74bcacd0800000000000000
+      internalID: -2545461238773009844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6429e1dd26c8c10800000000000000
+      internalID: 2057127831641671419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2cc923b619281c0800000000000000
+      internalID: -4502876787820412218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_185
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cd95ab482a7abe0800000000000000
+      internalID: -1466024462739973034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_186
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b70592a9473eac0800000000000000
+      internalID: -3827087052867863674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_187
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb064a05adee368d0800000000000000
+      internalID: -2854175117399531332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_188
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0901f46cb3fa0f0800000000000000
+      internalID: -1103597660766433035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_189
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a79b4095b80fc640800000000000000
+      internalID: 5102306478737037218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_190
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bb23f470e872190800000000000000
+      internalID: -7987259252073645198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_191
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdadf112406f80860800000000000000
+      internalID: 7496512077354228443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf7737f3d5788920800000000000000
+      internalID: 2992771505633853383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169cb4ab24c92eaa0800000000000000
+      internalID: -6133167932117890719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d24ada43c1572a0800000000000000
+      internalID: -6740450254712984204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_195
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f3a996107458220800000000000000
+      internalID: 2487472440584322832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc08b9355b8865a0800000000000000
+      internalID: -6527814461716689729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_197
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910b8ab06b5cf9710800000000000000
+      internalID: 1702296569839661081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_198
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edc0b1b74a6e5220800000000000000
+      internalID: 2476533701256728036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2a1e7249d4b67a0800000000000000
+      internalID: -6382922748147948864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ae497d8b5120570800000000000000
+      internalID: 8431325336026016404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_201
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6bc7bfc48679b00800000000000000
+      internalID: 835250935746574021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_202
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc34d232878f7b8b0800000000000000
+      internalID: -5136363655122828341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_203
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1a93ce1d116d0c0800000000000000
+      internalID: -4551430780102270514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e950befce57b80f0800000000000000
+      internalID: -1113666822098363935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_205
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e0d64cc7a2ba60800000000000000
+      internalID: 7688392009678119711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d716ce008b03230800000000000000
+      internalID: 3616592814883831106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc6667cb6fdd5b0800000000000000
+      internalID: -5341842293690807222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cc66ff61860d3b0800000000000000
+      internalID: -5489773497781138404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_209
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f85bd5f0bfbdb50800000000000000
+      internalID: 6619160120766336879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_210
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ea64ea85009f600800000000000000
+      internalID: 502433214309510738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242f5a298e9739e00800000000000000
+      internalID: 1050317177907180098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_212
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54dfc5761fd884e0800000000000000
+      internalID: -1979086748670503841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_213
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da059c50ba1b8b00800000000000000
+      internalID: 831787900949826257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_214
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f7ac4f011cb9b60800000000000000
+      internalID: 7754003462018989911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_215
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbe205a790ddc910800000000000000
+      internalID: 1859371570900954096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_216
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fbcb93460c12f00800000000000000
+      internalID: 1090364121498304278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_217
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9a9e205aa630b0800000000000000
+      internalID: -5749220612935869088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c8fde97ad67cca0800000000000000
+      internalID: -5996703812128109541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_219
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23e776e6047412e0800000000000000
+      internalID: -2155970748618382546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_220
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9e08a051ef6aa60800000000000000
+      internalID: 7685109180478319087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_221
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1336aac1f85b0af30800000000000000
+      internalID: 4584864046929044273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_222
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b9b2e75306e4190800000000000000
+      internalID: -7976332107160249590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698f1e2a05250d660800000000000000
+      internalID: 7408511893308045462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_224
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59168495e77b2ec80800000000000000
+      internalID: -8294865810371354219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_225
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043c82d2a7a147fc0800000000000000
+      internalID: -3498141898514054336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_226
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8df0cd7356a420800000000000000
+      internalID: 2640890031073234151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_227
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d6bd70b48d65620800000000000000
+      internalID: 2762633238204345639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_228
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8421dd141ec07350800000000000000
+      internalID: 6012532088334525578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_229
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7c93fc439259530800000000000000
+      internalID: 3861037562331777000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_230
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca15c5dafe0bb420800000000000000
+      internalID: 2646725676501375685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b64829fff82f9840800000000000000
+      internalID: 5232946371889743536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_232
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e74ed5e536da040800000000000000
+      internalID: 4660490446351662736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_233
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a3f7332dc9b2ab0800000000000000
+      internalID: -5031755732035356064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_234
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26716b6d4aa5f4b50800000000000000
+      internalID: 6579577244634978146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_235
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0649f02827da7130800000000000000
+      internalID: 3565398622369039883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3f04a159df3cfc0800000000000000
+      internalID: -3475655670567472163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_237
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ae60c3b022984c0800000000000000
+      internalID: -4284856138819245412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_238
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493ba91463d302800800000000000000
+      internalID: 585535254796350356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_239
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f6cb4eea57ba9e0800000000000000
+      internalID: -1609063047832506536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_240
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cbe3f7660d18d10800000000000000
+      internalID: 2126209637735644228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_241
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858f0fea10076d4d0800000000000000
+      internalID: -3110175340120442792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_242
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd16cd085f2db98d0800000000000000
+      internalID: -2838443188256218661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_243
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e15c31d668c250800000000000000
+      internalID: 5965130755298419839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_244
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd36f2d812230d0800000000000000
+      internalID: -3444653874715828851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_245
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e13886d677026930800000000000000
+      internalID: 4134875614866321894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f539c8570215a0ca0800000000000000
+      internalID: -6049933949565889697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_247
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df40e296f4f08460800000000000000
+      internalID: 7242057540675063765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_248
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea71e4964dcf6bda0800000000000000
+      internalID: -5929273870156687442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_249
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b876935d1bded7a0800000000000000
+      internalID: -6350397505542915913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_250
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5212128b655a81f0800000000000000
+      internalID: -1041926443550764453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_251
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efbd86a29e2e2910800000000000000
+      internalID: 1814438907271299044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_252
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fa2df330eac8a40800000000000000
+      internalID: 5371859784525066018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_253
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c20ad102847b0410800000000000000
+      internalID: 1444376207228011209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db128c29f21082a0800000000000000
+      internalID: -6737364181143381038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_255
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca00d3e408e1983d0800000000000000
+      internalID: -3203996123480129364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_256
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eff09fc24035e8b0800000000000000
+      internalID: -5123635937555709978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_257
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8dea281083ba6c0800000000000000
+      internalID: -4131146654043678511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_258
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48675a94a565f270800000000000000
+      internalID: 8283638847256356939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_259
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372de60cc75412750800000000000000
+      internalID: 6278375757637931635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_260
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18810312de143d90800000000000000
+      internalID: -7119031223355078630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_261
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdbc96c935a2f5c0800000000000000
+      internalID: -4183099436309889592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_262
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691606ec62a234420800000000000000
+      internalID: 2612978554964566422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_263
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdcf5076918325f0800000000000000
+      internalID: -782639427101929999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_264
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48015ffaa63e16600800000000000000
+      internalID: 459898684326613124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_265
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c741bba4c91ea2470800000000000000
+      internalID: 8370750918806410364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_266
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578ce892104860900800000000000000
+      internalID: 650352336728672373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_267
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a525e22617edec0800000000000000
+      internalID: -3540267590568748500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_268
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b39a8eef4aac450800000000000000
+      internalID: 6109877259213552466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_269
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aee3c4921c9bee0800000000000000
+      internalID: -1244751438874219960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_270
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b1f705125cc6a90800000000000000
+      internalID: -7319258547508798693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_271
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b14d744542c15c0800000000000000
+      internalID: -4243476804488914138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_272
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7690f0494528401a0800000000000000
+      internalID: -6844202233923434137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_273
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688fff942ad9241c0800000000000000
+      internalID: -4520877755574781818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_274
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d3ade4f7c986f60800000000000000
+      internalID: 8027838406385614142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestground06dv5_275
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398c228452017b250800000000000000
+      internalID: 5960250384158214291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
