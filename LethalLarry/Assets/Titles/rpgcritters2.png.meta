@@ -399,7 +399,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -456,10 +456,10 @@ TextureImporter:
       name: rpgcritters2_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 216
-        width: 16
-        height: 16
+        x: 17
+        y: 192
+        width: 30
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -477,10 +477,10 @@ TextureImporter:
       name: rpgcritters2_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 216
-        width: 16
-        height: 16
+        x: 56
+        y: 192
+        width: 26
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +498,10 @@ TextureImporter:
       name: rpgcritters2_2
       rect:
         serializedVersion: 2
-        x: 16
-        y: 200
-        width: 16
-        height: 16
+        x: 9
+        y: 146
+        width: 37
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -519,10 +519,10 @@ TextureImporter:
       name: rpgcritters2_3
       rect:
         serializedVersion: 2
-        x: 32
-        y: 200
-        width: 16
-        height: 16
+        x: 55
+        y: 136
+        width: 28
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -540,10 +540,10 @@ TextureImporter:
       name: rpgcritters2_4
       rect:
         serializedVersion: 2
-        x: 48
-        y: 200
-        width: 16
-        height: 16
+        x: 18
+        y: 94
+        width: 33
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -561,10 +561,10 @@ TextureImporter:
       name: rpgcritters2_5
       rect:
         serializedVersion: 2
-        x: 64
-        y: 200
-        width: 16
-        height: 16
+        x: 61
+        y: 100
+        width: 19
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +582,10 @@ TextureImporter:
       name: rpgcritters2_6
       rect:
         serializedVersion: 2
-        x: 80
-        y: 200
-        width: 16
-        height: 16
+        x: 17
+        y: 46
+        width: 32
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -603,10 +603,10 @@ TextureImporter:
       name: rpgcritters2_7
       rect:
         serializedVersion: 2
-        x: 16
-        y: 184
-        width: 16
-        height: 16
+        x: 56
+        y: 46
+        width: 29
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -624,10 +624,10 @@ TextureImporter:
       name: rpgcritters2_8
       rect:
         serializedVersion: 2
-        x: 32
-        y: 184
-        width: 16
-        height: 16
+        x: 15
+        y: 13
+        width: 41
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -645,10 +645,10 @@ TextureImporter:
       name: rpgcritters2_9
       rect:
         serializedVersion: 2
-        x: 48
-        y: 184
-        width: 16
-        height: 16
+        x: 64
+        y: 12
+        width: 24
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -658,1077 +658,6 @@ TextureImporter:
       bones: []
       spriteID: ba7995ad8aa712140800000000000000
       internalID: 4693167152333166507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_10
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 184
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d51405fd6c31fa900800000000000000
-      internalID: 697798212136747357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_11
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 168
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a845ee859dfd4e60800000000000000
-      internalID: 7948287736168138916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_12
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 168
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ef9a806ab5ec4780800000000000000
-      internalID: -8697324191712895003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_13
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 168
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31fed3871cb51ae10800000000000000
-      internalID: 2207146178892394259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_14
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 168
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee338d127f07f9610800000000000000
-      internalID: 1630145796858459118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_15
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 152
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a4c1240c93b26a20800000000000000
-      internalID: 3054200979976209576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_16
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 152
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1bf1a6fd428840700800000000000000
-      internalID: 505678750120812465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_17
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 152
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb783a947bf1bf710800000000000000
-      internalID: 1728009754101647294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_18
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 152
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9a031339719d59e50800000000000000
-      internalID: 6815592306372063401
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_19
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 152
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96d7ca4bef6ee19a0800000000000000
-      internalID: -6260312450371125911
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_20
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 136
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 93704383157d8cbd0800000000000000
-      internalID: -2609599240225945799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_21
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 136
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eaec5284133809a20800000000000000
-      internalID: 3067095593926381230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_22
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 136
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c51dd732a14c17d90800000000000000
-      internalID: -7101679520842919588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_23
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 136
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b946bd91b93d288b0800000000000000
-      internalID: -5151322360651225957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_24
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 136
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c970a4dd27ce779c0800000000000000
-      internalID: -3929412171774425188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_25
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 120
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5716264e33e9c06e0800000000000000
-      internalID: -1869945799553425035
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_26
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 120
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a4c488bf67974fc0800000000000000
-      internalID: -3510670878419139419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_27
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 120
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 907e2055dfbdc16e0800000000000000
-      internalID: -1865374264538765559
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_28
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 120
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a0c1f498757738f80800000000000000
-      internalID: -8105503686487237622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_29
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8558e508077d3f00800000000000000
-      internalID: 1098164760490825100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_30
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa293c34e6e13ecf0800000000000000
-      internalID: -224302097506266449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_31
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5e37b00c971946d0800000000000000
-      internalID: -3005845317498749345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_32
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc1fd5963cf328c90800000000000000
-      internalID: -7169097548301471284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_33
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 88
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c708dcb7900d43520800000000000000
-      internalID: 2680996417342636156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_34
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 88
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a8b93dbeff37fe80800000000000000
-      internalID: -8144971037747332957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_35
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 88
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa4d58fa6513a0c20800000000000000
-      internalID: 3173403135817667759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_36
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 88
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 419b4ca07222784d0800000000000000
-      internalID: -3132497464733157100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_37
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 72
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f0a4b44a7b63fc90800000000000000
-      internalID: -7137242811569233679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_38
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 72
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e5b13cfce8eb1940800000000000000
-      internalID: 5268060293680969185
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_39
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 72
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 543fc23ed58758b00800000000000000
-      internalID: 830202050958390085
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_40
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 72
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66cd0ebc832758df0800000000000000
-      internalID: -178611021947020186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_41
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c86bc7198e2d12c30800000000000000
-      internalID: 4332976212822242956
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_42
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90b52da66dff96480800000000000000
-      internalID: -8905305491768190199
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_43
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe93afa24d83e4370800000000000000
-      internalID: 8308640846450407919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_44
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 896461fcfcbdb2de0800000000000000
-      internalID: -1356749177143015784
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_45
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 206c314f7a47f2270800000000000000
-      internalID: 8227923308932482562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_46
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dde05e37d87e94580800000000000000
-      internalID: -8842281798644461859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_47
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b575784abe6298c30800000000000000
-      internalID: 4362060507604539227
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_48
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9dd3533ecebade8d0800000000000000
-      internalID: -2815405158124143143
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_49
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6dad85354ebae5790800000000000000
-      internalID: -7539399729032406314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_50
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c7f8968b1c9ff2300800000000000000
-      internalID: 229676716437114748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_51
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83afe5d6285a3bc30800000000000000
-      internalID: 4374021642706156088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_52
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b03e7ce811996a70800000000000000
-      internalID: 8820740881414762672
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_53
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d8a8f12e17f583aa0800000000000000
-      internalID: -6181085545836344691
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_54
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1fc2d900c07e9d000800000000000000
-      internalID: 61334108682136817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_55
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3fde80ef28e7e000800000000000000
-      internalID: 65276011948728125
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_56
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ef9c30d035096220800000000000000
-      internalID: 2479518777054371815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_57
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a716a6a86a2bf53c0800000000000000
-      internalID: -4368576685169548934
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_58
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a0b481375cdd64c0800000000000000
-      internalID: -4292532602763169628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_59
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2ba62fd15af81e90800000000000000
-      internalID: -7054613586732733652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rpgcritters2_60
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2aaf745f772bcf1c0800000000000000
-      internalID: -4468500501972387166
       vertices: []
       indices: 
       edges: []

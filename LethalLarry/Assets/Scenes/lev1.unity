@@ -214,6 +214,7 @@ GameObject:
   - component: {fileID: 258696839}
   - component: {fileID: 258696842}
   - component: {fileID: 258696841}
+  - component: {fileID: 258696843}
   m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
@@ -346,7 +347,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!95 &258696841
 Animator:
   serializedVersion: 3
@@ -381,6 +382,32 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!61 &258696843
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258696835}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.3, y: 0.49}
+    newSize: {x: 0.3, y: 0.49}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.3, y: 0.49}
+  m_EdgeRadius: 0
 --- !u!1 &457537749
 GameObject:
   m_ObjectHideFlags: 0
@@ -66468,6 +66495,7 @@ GameObject:
   - component: {fileID: 2022352199}
   - component: {fileID: 2022352201}
   - component: {fileID: 2022352200}
+  - component: {fileID: 2022352202}
   m_Layer: 0
   m_Name: veggies
   m_TagString: Untagged
@@ -66529,7 +66557,7 @@ TilemapRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
-  m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
+  m_ChunkCullingBounds: {x: 0.5, y: 0.53125, z: 0}
   m_MaxChunkCount: 16
   m_MaxFrameAge: 16
   m_SortOrder: 0
@@ -70325,6 +70353,15 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741825
+  - first: {x: -10, y: 29, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 65
+      m_TileSpriteIndex: 65
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      m_AllTileFlags: 1073741825
   m_AnimatedTiles: {}
   m_TileAssetArray:
   - m_RefCount: 10
@@ -70457,6 +70494,8 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: f6d29ca607363a347a84d602a820fc27, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 42a4c13d3663f854082e7241b2009ed1, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: abb3a519b40b4d943bef4d25c317d599, type: 2}
   m_TileSpriteArray:
   - m_RefCount: 10
     m_Data: {fileID: -2971735732219099644, guid: 70801d5ae8ff5954bb843e1f1cf9fd13,
@@ -70647,8 +70686,11 @@ Tilemap:
   - m_RefCount: 2
     m_Data: {fileID: -1576992538768787543, guid: 70801d5ae8ff5954bb843e1f1cf9fd13,
       type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 2375163830035922882, guid: c5d12f49be8b89e4590be02ffc3394c0,
+      type: 3}
   m_TileMatrixArray:
-  - m_RefCount: 420
+  - m_RefCount: 421
     m_Data:
       e00: 1
       e01: 0
@@ -70667,13 +70709,13 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 420
+  - m_RefCount: 421
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Origin: {x: -39, y: -50, z: 0}
-  m_Size: {x: 80, y: 78, z: 1}
+  m_Size: {x: 80, y: 80, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
   m_TileOrientation: 0
   m_TileOrientationMatrix:
@@ -70693,6 +70735,22 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!19719996 &2022352202
+TilemapCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022352198}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_MaximumTileChangeCount: 1000
+  m_ExtrusionFactor: 0.00001
 --- !u!1 &2074174083
 GameObject:
   m_ObjectHideFlags: 0
