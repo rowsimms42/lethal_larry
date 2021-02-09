@@ -1,4 +1,6 @@
-﻿using System.Collections;
+//https://weeklyhow.com/unity-top-down-character-movement/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
@@ -8,30 +10,48 @@ public class playerScript : MonoBehaviour
 {
     // Start is called before the first frame update
     Rigidbody2D body;
-    //Animator animator;
+    Animator anim;
+    Vector2 movement;
+    float hf = 0.0f;
+    float vf = 0.0f;
 
     float horizontal;
     float vertical;
 
-    public float runSpeed = 10.0f;
+    public float movementSpeed = 5.0f;
 
     void Start ()
     {
-      body = GetComponent<Rigidbody2D>();
-      //animator = GetComponent<Animator> ();
+      body = this.GetComponent<Rigidbody2D>();
+      anim = this.GetComponent<Animator> ();
 
     }
 
     void Update()
     {
-      horizontal = Input.GetAxisRaw("Horizontal"); // -1 is left
-      vertical = Input.GetAxisRaw("Vertical"); // -1 is down
+
+      movement.x = Input.GetAxisRaw("Horizontal");
+      movement.y = Input.GetAxisRaw("Vertical");
+
+      hf = movement.x > 0.01f ? movement.x : movement.x < -0.01f ? 1 : 0;
+      vf = movement.y > 0.01f ? movement.y : movement.y < -0.01f ? 1 : 0;
+    if (movement.x < -0.01f)
+    {
+        this.gameObject.transform.localScale = new Vector3(-1, 1, 1);
+    } else
+    {
+        this.gameObject.transform.localScale = new Vector3(1, 1, 1);
+    }
+
+    anim.SetFloat("horizontal", hf);
+    anim.SetFloat("vertical", movement.y);
+    anim.SetFloat("speed", vf);
     }
 
 
     void FixedUpdate()
     {
-      body.velocity = new Vector2(horizontal * runSpeed, vertical * runSpeed);
+      body.MovePosition(body.position + movement * movementSpeed * Time.fixedDeltaTime);
     }
 
 }

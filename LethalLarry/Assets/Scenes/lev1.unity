@@ -230,8 +230,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 258696835}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.376, y: 13.11, z: -100}
-  m_LocalScale: {x: 4.0729337, y: 3.8024478, z: 1}
+  m_LocalPosition: {x: 8.77, y: 13.39, z: -100}
+  m_LocalScale: {x: 0.6466936, y: 0.6558991, z: 1}
   m_Children:
   - {fileID: 519420032}
   m_Father: {fileID: 0}
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9089f667ac354865988071f2606a33e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  runSpeed: 20
+  movementSpeed: 5
 --- !u!212 &258696838
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -289,16 +289,15 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1146893381156250003, guid: 3efbdcd31ecc64d0dbd7e6a0f8c9cc94,
-    type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.3, y: 0.49}
+  m_Size: {x: 1.2, y: 2.4}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!61 &258696839
@@ -318,8 +317,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.3, y: 0.49}
-    newSize: {x: 0.3, y: 0.49}
+    oldSize: {x: 0.85714287, y: 1.4}
+    newSize: {x: 1.2, y: 2.4}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -399,8 +398,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.3, y: 0.49}
-    newSize: {x: 0.3, y: 0.49}
+    oldSize: {x: 0.85714287, y: 1.4}
+    newSize: {x: 1.2, y: 2.4}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -505,7 +504,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 16.717205
+  orthographic size: 12.194726
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -66161,7 +66160,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 895630448}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1676886581}
+        m_MethodName: returnToMenu
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &895630448
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66400,7 +66410,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 91.533, y: -25.363}
+  m_AnchoredPosition: {x: 91.53296, y: -25.362976}
   m_SizeDelta: {x: 183.0658, y: 50.72522}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1525442276
