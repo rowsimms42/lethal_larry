@@ -20,12 +20,12 @@ public class menuscript : MonoBehaviour
 
     public void directionPage(){
       Debug.Log("Going to directions...");
-      SceneManager.LoadScene("Directions");
+      SceneManager.LoadScene("Options");
     }
 
     public void playGame(){
       Debug.Log("Starting game...");
-      SceneManager.LoadScene("SampleScene");
+      SceneManager.LoadScene("lev1");
     }
 
     public void exitGame(){
