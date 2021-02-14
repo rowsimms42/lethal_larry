@@ -9,6 +9,7 @@ using System;
 public class playerScript : MonoBehaviour
 {
     // Start is called before the first frame update
+    public GameObject player;
     Rigidbody2D body;
     Animator anim;
     Vector2 movement;
@@ -35,23 +36,46 @@ public class playerScript : MonoBehaviour
 
       hf = movement.x > 0.01f ? movement.x : movement.x < -0.01f ? 1 : 0;
       vf = movement.y > 0.01f ? movement.y : movement.y < -0.01f ? 1 : 0;
-    if (movement.x < -0.01f)
-    {
+      if (movement.x < -0.01f)
         this.gameObject.transform.localScale = new Vector3(-1, 1, 1);
-    } else
-    {
+      else
         this.gameObject.transform.localScale = new Vector3(1, 1, 1);
-    }
 
-    anim.SetFloat("horizontal", hf);
-    anim.SetFloat("vertical", movement.y);
-    anim.SetFloat("speed", vf);
+
+      anim.SetFloat("horizontal", hf);
+      anim.SetFloat("vertical", movement.y);
+      anim.SetFloat("speed", vf);
+
+      if (movement.x == 1 || movement.x == - 1 || movement.y == 1 || movement.y == -1){
+        anim.SetFloat("lastMoveX", movement.x);
+        anim.SetFloat("lastMoveY", movement.y);
+      }
+      if (Input.GetKeyDown("space")){
+        anim.SetTrigger("fire");
+      }
+      if (Input.GetKeyUp("space")){
+        anim.ResetTrigger("fire");
+      }
+      checkPlayerCoords();
+
+    }
+    void Awake(){
+      GameObject[] obj = GameObject.FindGameObjectsWithTag("Player");
+      //DontDestroyOnLoad(this.gameObject);
     }
 
 
     void FixedUpdate()
     {
       body.MovePosition(body.position + movement * movementSpeed * Time.fixedDeltaTime);
+    }
+
+    void checkPlayerCoords(){
+      //Debug.Log("Player position is: "+ player.transform.position.x);
+      if (player.transform.position.y > 28.1 &&
+        (player.transform.position.x < -8.5 && player.transform.position.x > -10.3)){
+        Debug.Log("At wizard");
+      }
     }
 
 }
