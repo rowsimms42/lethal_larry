@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: fd2365442b8f115499711c0a5e66a141
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6837574236661654775
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_0
+  - first:
+      213: -8228893260802317437
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_1
+  - first:
+      213: -352921967706524168
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_2
+  - first:
+      213: 9191909203556197760
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_3
+  - first:
+      213: -8830176892374230127
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_4
+  - first:
+      213: -7770368176534327177
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_5
+  - first:
+      213: -28457742582768207
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_6
+  - first:
+      213: 7990470857289541551
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_7
+  - first:
+      213: 7329056614229536760
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_8
+  - first:
+      213: 1002462800285200803
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_9
+  - first:
+      213: 7148496240599757618
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_10
+  - first:
+      213: 1594115333315193338
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_11
+  - first:
+      213: 4408719916587751955
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_12
+  - first:
+      213: -3053627361947998778
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_13
+  - first:
+      213: -1597259197638469528
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_14
+  - first:
+      213: -8332244401764416762
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_15
+  - first:
+      213: 8879454518488945824
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_16
+  - first:
+      213: 5915978450950072322
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_17
+  - first:
+      213: 2335211432759661425
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_18
+  - first:
+      213: 5404384674561478921
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_19
+  - first:
+      213: 158479633644729311
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_20
+  - first:
+      213: 1854339462817999020
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_21
+  - first:
+      213: -5675225147338654456
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_22
+  - first:
+      213: -7663307614572675083
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_23
+  - first:
+      213: 5227403871649618919
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_24
+  - first:
+      213: -8677054337169773479
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_25
+  - first:
+      213: -4025003676479865529
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_26
+  - first:
+      213: 529033881874511154
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_27
+  - first:
+      213: -5093827983673191664
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_28
+  - first:
+      213: -6193337978021579416
+    second: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b5b62757e0c11a0800000000000000
+      internalID: -6837574236661654775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383a5478d291dcd80800000000000000
+      internalID: -8228893260802317437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 71
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5bb69175b2a1bf0800000000000000
+      internalID: -352921967706524168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0856c9548b8309f70800000000000000
+      internalID: 9191909203556197760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 69
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bdb2296e8e47580800000000000000
+      internalID: -8830176892374230127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 72
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770fba7005b1a2490800000000000000
+      internalID: -7770368176534327177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd9e3a75d5ea9ff0800000000000000
+      internalID: -28457742582768207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 52
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7aadcc8ead3ee60800000000000000
+      internalID: 7990470857289541551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 54
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe0edd82a06b560800000000000000
+      internalID: 7329056614229536760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1fa870b9679ed00800000000000000
+      internalID: 1002462800285200803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 52
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233f92bd47f843360800000000000000
+      internalID: 7148496240599757618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 54
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9614d137f6f1610800000000000000
+      internalID: 1594115333315193338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 35
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a176ed76bee2d30800000000000000
+      internalID: 4408719916587751955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c52da6d7165f95d0800000000000000
+      internalID: -3053627361947998778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868988ee83565d9e0800000000000000
+      internalID: -1597259197638469528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603481bdcdbed5c80800000000000000
+      internalID: -8332244401764416762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 18
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a455c5d6d82a3b70800000000000000
+      internalID: 8879454518488945824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 35
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208aeb39e07c91250800000000000000
+      internalID: 5915978450950072322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 20
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1731215fc66586020800000000000000
+      internalID: 2335211432759661425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9015dc45a3b300b40800000000000000
+      internalID: 5404384674561478921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 18
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3378b1368033200800000000000000
+      internalID: 158479633644729311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 20
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8614eaaefebb910800000000000000
+      internalID: 1854339462817999020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80df3801ccc8d31b0800000000000000
+      internalID: -5675225147338654456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff79d4935676a590800000000000000
+      internalID: -7663307614572675083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb5d2310287b8840800000000000000
+      internalID: 5227403871649618919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cab38ad09e49780800000000000000
+      internalID: -8677054337169773479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db6cb4b705428c0800000000000000
+      internalID: -4025003676479865529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235b64b3381875700800000000000000
+      internalID: 529033881874511154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0131736ef661f49b0800000000000000
+      internalID: -5093827983673191664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30_sprites_in_30_minutes_by_russpuppy-d6u7z52_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86576163ce7dc0aa0800000000000000
+      internalID: -6193337978021579416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
