@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using System;
+using UnityEngine.UI;
 
 public class playerScript : MonoBehaviour
 {
@@ -15,17 +16,14 @@ public class playerScript : MonoBehaviour
     Vector2 movement;
     float hf = 0.0f;
     float vf = 0.0f;
-
     float horizontal;
     float vertical;
-
     public float movementSpeed = 5.0f;
 
     void Start ()
     {
       body = this.GetComponent<Rigidbody2D>();
       anim = this.GetComponent<Animator> ();
-
     }
 
     void Update()
@@ -41,7 +39,6 @@ public class playerScript : MonoBehaviour
       else
         this.gameObject.transform.localScale = new Vector3(1, 1, 1);
 
-
       anim.SetFloat("horizontal", hf);
       anim.SetFloat("vertical", movement.y);
       anim.SetFloat("speed", vf);
@@ -56,26 +53,30 @@ public class playerScript : MonoBehaviour
       if (Input.GetKeyUp("space")){
         anim.ResetTrigger("fire");
       }
-      checkPlayerCoords();
-
+      //checkPlayerCoords();
     }
     void Awake(){
       GameObject[] obj = GameObject.FindGameObjectsWithTag("Player");
       //DontDestroyOnLoad(this.gameObject);
     }
 
-
     void FixedUpdate()
     {
       body.MovePosition(body.position + movement * movementSpeed * Time.fixedDeltaTime);
     }
-
+/*
     void checkPlayerCoords(){
-      //Debug.Log("Player position is: "+ player.transform.position.x);
-      if (player.transform.position.y > 28.1 &&
-        (player.transform.position.x < -8.5 && player.transform.position.x > -10.3)){
-        Debug.Log("At wizard");
-      }
-    }
+      //Debug.Log("Player position is: "+ player.transform.position.y);
+      if ((player.transform.position.y > 28.1 &&
+        (player.transform.position.x < -8.5 && player.transform.position.x > -10.6)) ||
+        (player.transform.position.x < 7.8 && player.transform.position.x > -11.3) &&
+        (player.transform.position.y > 28.5 && player.transform.position.y < 31)){
+            //Debug.Log("At wizard");
 
+            //display.text = "Press 'i' to interact...";
+            //private Rect windowRect = new Rect ((Screen.width - 200)/2, (Screen.height - 300)/2, 200, 300);
+      }
+      //x:> -11.3 && x < 7.8
+      //y: > 28.5 && y < 31
+    }*/
 }
