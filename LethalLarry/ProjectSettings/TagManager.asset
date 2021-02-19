@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Wizard
   - Star1
+  - Star
   layers:
   - Default
   - TransparentFX

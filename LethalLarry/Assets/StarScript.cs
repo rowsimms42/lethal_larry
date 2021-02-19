@@ -9,19 +9,19 @@ public class StarScript : MonoBehaviour
 {
     [SerializeField]
     Canvas messageStar;
-    public GameObject star1;
+    public GameObject star;
     bool atStar = false;
     // Start is called before the first frame update
     void Start(){
         messageStar.enabled = false;
         //star1 = GameObject.Find("Star1");
-        star1.SetActive(true);
+        star.SetActive(true);
     }
     // Update is called once per frame
     void Update(){
       if (atStar == true){
         if (Input.GetKeyDown("c")){
-          star1.SetActive(false);
+          star.SetActive(false);
           messageStar.gameObject.SetActive(false);
         }
       }
