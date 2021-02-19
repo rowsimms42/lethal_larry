@@ -5,48 +5,45 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class wizardScript : MonoBehaviour
+public class StarScript : MonoBehaviour
 {
     [SerializeField]
-    Canvas messageCanvas;
-    public GameObject wizard;
-    Rigidbody2D wizbody;
-    bool triggered = false;
-    public Text text;
-
+    Canvas messageStar;
+    public GameObject star1;
+    bool atStar = false;
     // Start is called before the first frame update
     void Start(){
-        BoxCollider2D col = wizard.GetComponent<BoxCollider2D>();
-        messageCanvas.enabled = false;
+        messageStar.enabled = false;
+        //star1 = GameObject.Find("Star1");
+        star1.SetActive(true);
     }
-
     // Update is called once per frame
     void Update(){
-      if (triggered == true){
-        if (Input.GetKeyDown("i")){
-            text.text = "Hello, Larry. \n Please collect 3 stars and bring them to me.";
+      if (atStar == true){
+        if (Input.GetKeyDown("c")){
+          star1.SetActive(false);
+          messageStar.gameObject.SetActive(false);
         }
       }
     }
     void OnCollisionEnter2D(Collision2D c){
       if(c.gameObject.tag == "Player"){
-        triggered = true;
+        atStar = true;
         TurnOnMessage();
       }
     }
     void OnCollisionExit2D(Collision2D c){
       if(c.gameObject.tag == "Player")
       {
-        triggered = false;
+        atStar = false;
         TurnOffMessage();
       }
     }
     void TurnOnMessage(){
-      messageCanvas.enabled = true;
+      messageStar.enabled = true;
     }
     void TurnOffMessage(){
-      messageCanvas.enabled = false;
-      text.text = "Press 'i' to interact...";
+      messageStar.enabled = false;
     }
 /*
     void OnGUI(){

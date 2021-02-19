@@ -5,31 +5,33 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class wizardScript : MonoBehaviour
+public class starScript : MonoBehaviour
 {
     [SerializeField]
     Canvas messageCanvas;
-    public GameObject wizard;
+    public GameObject s1;
     Rigidbody2D wizbody;
     bool triggered = false;
-    public Text text;
 
     // Start is called before the first frame update
     void Start(){
-        BoxCollider2D col = wizard.GetComponent<BoxCollider2D>();
+        BoxCollider2D col = s1.GetComponent<BoxCollider2D>();
         messageCanvas.enabled = false;
     }
 
     // Update is called once per frame
     void Update(){
       if (triggered == true){
-        if (Input.GetKeyDown("i")){
-            text.text = "Hello, Larry. \n Please collect 3 stars and bring them to me.";
+        if (Input.GetKeyDown("c")){
+
+          GameObject.Find("S1").SetActive(false);
         }
       }
+
     }
     void OnCollisionEnter2D(Collision2D c){
       if(c.gameObject.tag == "Player"){
+        //Debug.Log("triggered me");
         triggered = true;
         TurnOnMessage();
       }
@@ -46,7 +48,6 @@ public class wizardScript : MonoBehaviour
     }
     void TurnOffMessage(){
       messageCanvas.enabled = false;
-      text.text = "Press 'i' to interact...";
     }
 /*
     void OnGUI(){
