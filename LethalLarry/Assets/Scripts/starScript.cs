@@ -5,49 +5,45 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class starScript : MonoBehaviour
+public class StarScript : MonoBehaviour
 {
     [SerializeField]
-    Canvas messageCanvas;
-    public GameObject s1;
-    Rigidbody2D wizbody;
-    bool triggered = false;
-
+    Canvas messageStar;
+    public GameObject star;
+    bool atStar = false;
     // Start is called before the first frame update
     void Start(){
-        BoxCollider2D col = s1.GetComponent<BoxCollider2D>();
-        messageCanvas.enabled = false;
+        messageStar.enabled = false;
+        //star1 = GameObject.Find("Star1");
+        star.SetActive(true);
     }
-
     // Update is called once per frame
     void Update(){
-      if (triggered == true){
+      if (atStar == true){
         if (Input.GetKeyDown("c")){
-
-          GameObject.Find("S1").SetActive(false);
+          star.SetActive(false);
+          messageStar.gameObject.SetActive(false);
         }
       }
-
     }
     void OnCollisionEnter2D(Collision2D c){
       if(c.gameObject.tag == "Player"){
-        //Debug.Log("triggered me");
-        triggered = true;
+        atStar = true;
         TurnOnMessage();
       }
     }
     void OnCollisionExit2D(Collision2D c){
       if(c.gameObject.tag == "Player")
       {
-        triggered = false;
+        atStar = false;
         TurnOffMessage();
       }
     }
     void TurnOnMessage(){
-      messageCanvas.enabled = true;
+      messageStar.enabled = true;
     }
     void TurnOffMessage(){
-      messageCanvas.enabled = false;
+      messageStar.enabled = false;
     }
 /*
     void OnGUI(){
