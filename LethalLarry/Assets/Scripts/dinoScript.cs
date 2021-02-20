@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class dinoScript : MonoBehaviour
 {
@@ -18,6 +19,7 @@ public class dinoScript : MonoBehaviour
     private float alertTimer = 0;
     [SerializeField]
     Canvas alertDino;
+    public Text text;
 
     void Start()
     {
@@ -45,7 +47,7 @@ public class dinoScript : MonoBehaviour
             TurnOnMessage();
           }
         }
-        if (alertTimer > 1){
+        if (alertTimer > 1){ //&& attackTimer > 1){
           TurnOffMessage();
         }
         //transform.Translate(player.transform.position * Time.deltaTime * speed); //direction
@@ -54,8 +56,11 @@ public class dinoScript : MonoBehaviour
         if (Vector2.Distance(this.transform.position, player.transform.position) <= minAttackDistance){ //dino position, player position
             if (attackTimer >= attackCoolDown){
               Debug.Log("attack");
+              anim.SetTrigger("pitch");
               attackTimer = 0;
               moving = true;
+              //text.text = "!!!";
+              //TurnOnMessage();
             }
         }
         if (Vector2.Distance(this.transform.position, player.transform.position) <= minDistance){ //dino position, player position
@@ -75,5 +80,6 @@ public class dinoScript : MonoBehaviour
     }
     void TurnOffMessage(){
         alertDino.enabled = false;
+        //text.text = "!";
     }
 }

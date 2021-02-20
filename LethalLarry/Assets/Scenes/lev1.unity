@@ -66722,8 +66722,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -7, y: -1}
-  m_SizeDelta: {x: 51.74259, y: 46.51908}
+  m_AnchoredPosition: {x: -7.6, y: -4.2038}
+  m_SizeDelta: {x: 35.05066, y: 33.922615}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1234661257
 MonoBehaviour:
@@ -66748,7 +66748,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: ecd5153d0f5f34d7a8e72d712317b49a, type: 3}
     m_FontSize: 28
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 1
@@ -75430,6 +75430,7 @@ MonoBehaviour:
   attackCoolDown: 3
   speed: 0.5
   alertDino: {fileID: 408002977}
+  text: {fileID: 1234661257}
 --- !u!61 &2141590283
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -75447,7 +75448,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.8125, y: 2.625}
+    oldSize: {x: 1.1851852, y: 2.0747073}
     newSize: {x: 1.9, y: 3.3}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -75495,7 +75496,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 8231932596680892034, guid: 0bd8567e97cf441ab995aa2ff491584a,
+  m_Sprite: {fileID: 1929695462936905799, guid: 013863c03231e483386e29cd51e237cd,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
