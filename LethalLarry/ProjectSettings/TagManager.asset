@@ -5,10 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Wizard
-  - Star1
   - Star
-  - EnemyGrid
   - projectile
+  - Enemy
   layers:
   - Default
   - TransparentFX

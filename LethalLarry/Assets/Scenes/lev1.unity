@@ -233,8 +233,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 14.269, y: -15.735}
-  m_SizeDelta: {x: 37.734863, y: 35.125412}
+  m_AnchoredPosition: {x: 13, y: 33.529}
+  m_SizeDelta: {x: 55.932312, y: 49.91913}
   m_Pivot: {x: 0.0000007599592, y: 0.5}
 --- !u!114 &161158094
 MonoBehaviour:
@@ -329,6 +329,8 @@ MonoBehaviour:
   arrow: {fileID: 4849752613884440680, guid: 5b8bfd2b48afa4d03b70b5b40de9b7ff, type: 3}
   movementSpeed: 5
   movePosition: {x: 0, y: 0, z: 0}
+  heartCount: 4
+  alive: 0
 --- !u!212 &258696838
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1662,13 +1664,14 @@ RectTransform:
   - {fileID: 1525442275}
   - {fileID: 161158093}
   - {fileID: 851812106}
+  - {fileID: 1801382415}
   m_Father: {fileID: 995146279}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -834, y: 391.89}
-  m_SizeDelta: {x: -1720.5278, y: -783.7728}
+  m_AnchoredPosition: {x: -650.8, y: 375.3}
+  m_SizeDelta: {x: -2033.8369, y: -750.55286}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &785107819
 MonoBehaviour:
@@ -1823,8 +1826,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 93.3, y: -20.437}
-  m_SizeDelta: {x: 82.56769, y: 38.780945}
+  m_AnchoredPosition: {x: 105, y: 28.995}
+  m_SizeDelta: {x: 71.52649, y: 48.92414}
   m_Pivot: {x: 0.41298294, y: 0.4258924}
 --- !u!114 &851812107
 MonoBehaviour:
@@ -1847,11 +1850,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: dd4b695d874a049929271e331c9c3e42, type: 3}
-    m_FontSize: 30
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 30
+    m_MinSize: 4
+    m_MaxSize: 50
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -67217,7 +67220,7 @@ GameObject:
   - component: {fileID: 1283811253}
   m_Layer: 0
   m_Name: Dino2
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -67260,6 +67263,7 @@ MonoBehaviour:
   speed: 0.5
   alertDino: {fileID: 1611903562}
   text: {fileID: 1926633918}
+  pScript: {fileID: 258696837}
 --- !u!61 &1283811250
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -67933,8 +67937,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 90.739, y: -22.17}
-  m_SizeDelta: {x: 181.46735, y: 44.336243}
+  m_AnchoredPosition: {x: -327, y: -32.806}
+  m_SizeDelta: {x: 58.949707, y: 50.330322}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1525442276
 MonoBehaviour:
@@ -67955,8 +67959,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4061930726552672069, guid: 23f46cc6d05664197a6627667defd979,
-    type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1bb7c4c359c28419db39dc98e8b3c84b, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -68107,6 +68110,8 @@ MonoBehaviour:
   star1: {fileID: 538609951}
   star2: {fileID: 721212383}
   star3: {fileID: 735961044}
+  heartText: {fileID: 1801382416}
+  pScript: {fileID: 258696837}
 --- !u!4 &1676886582
 Transform:
   m_ObjectHideFlags: 0
@@ -71646,6 +71651,84 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1742193266}
+  m_CullTransparentMesh: 0
+--- !u!1 &1801382414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1801382415}
+  - component: {fileID: 1801382417}
+  - component: {fileID: 1801382416}
+  m_Layer: 5
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1801382415
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1801382414}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 785107818}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -50.3, y: 33.544}
+  m_SizeDelta: {x: 114.00311, y: 49.949356}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1801382416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1801382414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.9528302, g: 0.04045032, b: 0.04045032, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: dd4b695d874a049929271e331c9c3e42, type: 3}
+    m_FontSize: 50
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 40
+    m_MaxSize: 50
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: x 4
+--- !u!222 &1801382417
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1801382414}
   m_CullTransparentMesh: 0
 --- !u!1 &1926633917
 GameObject:
@@ -76197,7 +76280,7 @@ GameObject:
   - component: {fileID: 2141590286}
   m_Layer: 0
   m_Name: Dino
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -76221,6 +76304,7 @@ MonoBehaviour:
   speed: 0.5
   alertDino: {fileID: 408002977}
   text: {fileID: 1234661257}
+  pScript: {fileID: 258696837}
 --- !u!61 &2141590283
 BoxCollider2D:
   m_ObjectHideFlags: 0

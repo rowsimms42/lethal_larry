@@ -23,6 +23,9 @@ public class playerScript : MonoBehaviour
     private float lastX = 0;
     private float lastY = 0;
     public Vector3 movePosition;
+    public float heartCount = 4f;
+    public bool alive;
+    private float wait = 0;
 
 
     void Start ()
@@ -30,6 +33,7 @@ public class playerScript : MonoBehaviour
       body = this.GetComponent<Rigidbody2D>();
       anim = this.GetComponent<Animator> ();
       lastY = -1;
+      alive = true;
     }
 
     void Update()
@@ -47,6 +51,8 @@ public class playerScript : MonoBehaviour
       anim.SetFloat("horizontal", hf);
       anim.SetFloat("vertical", movement.y);
       anim.SetFloat("speed", vf);
+
+      checkHealth();
 
       if (movement.x == 1 || movement.x == - 1 || movement.y == 1 || movement.y == -1){
         anim.SetFloat("lastMoveX", movement.x);
@@ -98,7 +104,19 @@ public class playerScript : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D col)
     {
-        if(col.gameObject.tag == "projectile")
-          Destroy(gameObject);
+        if(col.gameObject.tag == "Enemy"){
+            heartCount = heartCount - 1.0f;
+        }
+          //Destroy(gameObject);
     }
+
+    void checkHealth(){
+      if (heartCount < 0.1){
+        anim.SetTrigger("death");
+        alive = false;
+        this.enabled = false;
+      }
+    }
+    public float HeartCount{get{return heartCount;}}
+    public bool Alive{get{return alive;}}
 }

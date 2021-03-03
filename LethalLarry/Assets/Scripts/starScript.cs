@@ -14,7 +14,6 @@ public class StarScript : MonoBehaviour
     // Start is called before the first frame update
     void Start(){
         messageStar.enabled = false;
-        //star1 = GameObject.Find("Star1");
         star.SetActive(true);
     }
     // Update is called once per frame
