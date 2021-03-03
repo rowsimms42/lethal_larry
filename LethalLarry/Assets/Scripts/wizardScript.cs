@@ -13,18 +13,24 @@ public class wizardScript : MonoBehaviour
     Rigidbody2D wizbody;
     bool triggered = false;
     public Text text;
+    string[] wizardResponses = new string [4];
+    public level1script lev1;
 
     // Start is called before the first frame update
     void Start(){
         BoxCollider2D col = wizard.GetComponent<BoxCollider2D>();
         messageCanvas.enabled = false;
+        wizardResponses[0] = "Hello, Larry. \n Please collect 3 stars and bring them to me.";
+        wizardResponses[1] = "You have 1 star, 2 more to go.";
+        wizardResponses[2] = "2 stars down, 1 more to go.";
+        wizardResponses[3] = "You have collected all stars. \n I can free you from this level.";
     }
 
     // Update is called once per frame
     void Update(){
       if (triggered == true){
         if (Input.GetKeyDown("i")){
-            text.text = "Hello, Larry. \n Please collect 3 stars and bring them to me.";
+            text.text = wizardResponses[lev1.StarCount];
         }
       }
     }

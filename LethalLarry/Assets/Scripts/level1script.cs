@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class level1script : MonoBehaviour
 {
-    public int starCount = 0;
+    private int starCount = 0;
     private int s1, s2, s3 = 0;
     [SerializeField]
     Canvas starCanvas;
@@ -36,10 +36,15 @@ public class level1script : MonoBehaviour
     public void updateStarCount(){
       starCount = s1+s2+s3;
       text.text = "x " + starCount;
+
     }
 
     public void returnToMenu(){
         Debug.Log("Going back to menu...");
         SceneManager.LoadScene("menu");
     }
+
+    public int StarCount{get{return starCount;}}
+
+
 }

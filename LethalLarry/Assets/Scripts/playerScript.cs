@@ -11,24 +11,29 @@ public class playerScript : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject player;
+    public projectileBehavior ProjectilePrefab;
+    public GameObject arrow;
     Rigidbody2D body;
     Animator anim;
     Vector2 movement;
-    float hf = 0.0f;
-    float vf = 0.0f;
-    float horizontal;
-    float vertical;
+    float horizontal, vertical;
+    private float hf = 0;
+    private float vf = 0;
     public float movementSpeed = 5.0f;
+    private float lastX = 0;
+    private float lastY = 0;
+    public Vector3 movePosition;
+
 
     void Start ()
     {
       body = this.GetComponent<Rigidbody2D>();
       anim = this.GetComponent<Animator> ();
+      lastY = -1;
     }
 
     void Update()
     {
-
       movement.x = Input.GetAxisRaw("Horizontal");
       movement.y = Input.GetAxisRaw("Vertical");
 
@@ -46,37 +51,54 @@ public class playerScript : MonoBehaviour
       if (movement.x == 1 || movement.x == - 1 || movement.y == 1 || movement.y == -1){
         anim.SetFloat("lastMoveX", movement.x);
         anim.SetFloat("lastMoveY", movement.y);
+        lastX = movement.x;
+        lastY = movement.y;
       }
       if (Input.GetKeyDown("space")){
         anim.SetTrigger("fire");
+        fireArrow();
       }
       if (Input.GetKeyUp("space")){
         anim.ResetTrigger("fire");
       }
-      //checkPlayerCoords();
     }
     void Awake(){
       GameObject[] obj = GameObject.FindGameObjectsWithTag("Player");
       //DontDestroyOnLoad(this.gameObject);
     }
 
+    void fireArrow(){
+      GameObject b = (GameObject) Instantiate(arrow, transform.position, Quaternion.identity);
+      //b.transform.parent = gameObject.transform.parent;
+
+      if (lastY < 0 ) {//down{
+        b.GetComponent<Rigidbody2D>().rotation = -80f;
+        b.GetComponent<Rigidbody2D>().AddForce (-transform.up * 1000); //down
+      }
+      if (lastY > 0) {//up
+        b.GetComponent<Rigidbody2D>().rotation = 80f;
+        b.GetComponent<Rigidbody2D>().AddForce (transform.up * 1000);
+
+      }
+      if (lastX < 0) //left
+        b.GetComponent<Rigidbody2D>().AddForce (-transform.right * 1000);
+      if (lastX > 0) //right
+        b.GetComponent<Rigidbody2D>().AddForce (transform.right * 1000);
+    }
+
     void FixedUpdate()
     {
       body.MovePosition(body.position + movement * movementSpeed * Time.fixedDeltaTime);
     }
-/*
-    void checkPlayerCoords(){
-      //Debug.Log("Player position is: "+ player.transform.position.y);
-      if ((player.transform.position.y > 28.1 &&
-        (player.transform.position.x < -8.5 && player.transform.position.x > -10.6)) ||
-        (player.transform.position.x < 7.8 && player.transform.position.x > -11.3) &&
-        (player.transform.position.y > 28.5 && player.transform.position.y < 31)){
-            //Debug.Log("At wizard");
 
-            //display.text = "Press 'i' to interact...";
-            //private Rect windowRect = new Rect ((Screen.width - 200)/2, (Screen.height - 300)/2, 200, 300);
-      }
-      //x:> -11.3 && x < 7.8
-      //y: > 28.5 && y < 31
-    }*/
+    public static Quaternion LookAtTarget(Vector2 r)
+    {
+        return Quaternion.Euler(0, 0, Mathf.Atan2(r.y, r.x) * Mathf.Rad2Deg);
+    }
+
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        if(col.gameObject.tag == "projectile")
+          Destroy(gameObject);
+    }
 }

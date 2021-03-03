@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class dinoScript : MonoBehaviour
 {
     public GameObject player;
+    //public Rigidbody2D body;
     Animator anim;
     public float minDistance;
     public float minAttackDistance;
@@ -24,6 +25,7 @@ public class dinoScript : MonoBehaviour
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
+        //body = this.GetComponent<Rigidbody2D>();
         anim = this.GetComponent<Animator> ();
         moving = false;
         alertDino.enabled = false;
@@ -81,5 +83,14 @@ public class dinoScript : MonoBehaviour
     void TurnOffMessage(){
         alertDino.enabled = false;
         //text.text = "!";
+    }
+    void OnCollisionEnter2D(Collision2D c){
+      if(c.gameObject.tag == "EnemyGrid")
+      {
+        moving = false;
+        Debug.Log("colliding w wall");
+      }
+
+
     }
 }
