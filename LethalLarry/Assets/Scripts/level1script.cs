@@ -15,6 +15,7 @@ public class level1script : MonoBehaviour
     public GameObject star1, star2, star3;
     public Text heartText;
     public playerScript pScript;
+    public wizardScript wScript;
 
     // Start is called before the first frame update
     void Start()
@@ -27,6 +28,7 @@ public class level1script : MonoBehaviour
       checkStars();
       updateStarCount();
       updateHeartCount();
+      checkNextLevel();
     }
 
     public void checkStars(){
@@ -41,6 +43,15 @@ public class level1script : MonoBehaviour
       starCount = s1+s2+s3;
       text.text = "x " + starCount;
 
+    }
+
+    void checkNextLevel(){
+      if (wScript.NextLevel){
+        if (Input.GetKeyDown("c")){
+          Debug.Log("Going to level 2...");
+          SceneManager.LoadScene("level2");
+        }
+      }
     }
 
     public void updateHeartCount(){
@@ -78,6 +89,7 @@ public class level1script : MonoBehaviour
       Debug.Log("Going back to game over scene...");
       yield return new WaitForSeconds(4);
       SceneManager.LoadScene("GameOver");
+      Destroy(pScript.player);
     }
 
 

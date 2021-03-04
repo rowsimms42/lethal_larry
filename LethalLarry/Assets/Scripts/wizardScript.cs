@@ -15,6 +15,7 @@ public class wizardScript : MonoBehaviour
     public Text text;
     string[] wizardResponses = new string [4];
     public level1script lev1;
+    public bool nextLevel;
 
     // Start is called before the first frame update
     void Start(){
@@ -23,7 +24,8 @@ public class wizardScript : MonoBehaviour
         wizardResponses[0] = "Hello, Larry. \n Please collect 3 stars and bring them to me.";
         wizardResponses[1] = "You have 1 star, 2 more to go.";
         wizardResponses[2] = "2 stars down, 1 more to go.";
-        wizardResponses[3] = "You have collected all stars. \n I can free you from this level.";
+        wizardResponses[3] = "You have all 3 stars. \n I can now free you from this level. \n Enter 'c'.";
+        nextLevel = false;
     }
 
     // Update is called once per frame
@@ -31,6 +33,9 @@ public class wizardScript : MonoBehaviour
       if (triggered == true){
         if (Input.GetKeyDown("i")){
             text.text = wizardResponses[lev1.StarCount];
+            if (lev1.StarCount == 3){
+              nextLevel = true;
+          }
         }
       }
     }
@@ -54,6 +59,8 @@ public class wizardScript : MonoBehaviour
       messageCanvas.enabled = false;
       text.text = "Press 'i' to interact...";
     }
+
+    public bool NextLevel{get{return nextLevel;}}
 /*
     void OnGUI(){
       if (triggered){

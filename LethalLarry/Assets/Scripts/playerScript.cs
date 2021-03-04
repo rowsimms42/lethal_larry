@@ -68,7 +68,11 @@ public class playerScript : MonoBehaviour
     }
     void Awake(){
       GameObject[] obj = GameObject.FindGameObjectsWithTag("Player");
-      //DontDestroyOnLoad(this.gameObject);
+      DontDestroyOnLoad(this.gameObject);
+      if (FindObjectsOfType (GetType ()).Length > 1)
+      {
+         Destroy (gameObject);
+      }
     }
 
     void fireArrow(){
