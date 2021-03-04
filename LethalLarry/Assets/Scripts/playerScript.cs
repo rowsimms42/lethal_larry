@@ -25,8 +25,6 @@ public class playerScript : MonoBehaviour
     public Vector3 movePosition;
     public float heartCount = 4f;
     public bool alive;
-    private float wait = 0;
-
 
     void Start ()
     {
