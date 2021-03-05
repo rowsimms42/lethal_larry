@@ -777,7 +777,7 @@ GameObject:
   - component: {fileID: 538609956}
   - component: {fileID: 538609955}
   - component: {fileID: 538609953}
-  - component: {fileID: 538609954}
+  - component: {fileID: 538609952}
   m_Layer: 8
   m_Name: Star1
   m_TagString: Star
@@ -785,15 +785,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!222 &538609953
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 538609951}
-  m_CullTransparentMesh: 0
---- !u!114 &538609954
+--- !u!114 &538609952
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -807,6 +799,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messageStar: {fileID: 1348652486}
   star: {fileID: 538609951}
+--- !u!222 &538609953
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 538609951}
+  m_CullTransparentMesh: 0
 --- !u!212 &538609955
 SpriteRenderer:
   m_ObjectHideFlags: 0

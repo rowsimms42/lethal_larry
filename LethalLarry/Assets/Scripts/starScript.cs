@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class StarScript : MonoBehaviour
+public class starScript : MonoBehaviour
 {
     [SerializeField]
     Canvas messageStar;
