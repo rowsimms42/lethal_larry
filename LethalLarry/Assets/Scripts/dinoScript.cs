@@ -100,7 +100,7 @@ public class dinoScript : MonoBehaviour
     }
     void checkEnemyHealth(){
       if (health <=0){
-        Destroy(this.gameObject);
+        StartCoroutine(enemyDead());
       }
     }
     void OnCollisionEnter2D(Collision2D c){
@@ -109,7 +109,10 @@ public class dinoScript : MonoBehaviour
         moving = false;
         Debug.Log("colliding w wall");
       }
-
-
+    }
+    public IEnumerator enemyDead(){
+      //anim.SetTrigger("death");
+      yield return new WaitForSeconds(1);
+      Destroy(this.gameObject);
     }
 }
