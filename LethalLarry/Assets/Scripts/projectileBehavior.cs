@@ -23,7 +23,12 @@ public class projectileBehavior : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D col)
     {
-        if(col.gameObject.tag != "Player")
+        if(col.gameObject.tag != "Player"){
+          if (col.gameObject.tag == "Enemy"){
+            col.gameObject.GetComponent<dinoScript>().health--;
+          }
           Destroy(gameObject);
+
+        }
     }
 }

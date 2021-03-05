@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class dinoScript : MonoBehaviour
 {
     public GameObject player;
+    public int health = 4;
     Animator anim;
     public float minDistance, minAttackDistance, attackCoolDown;
     private float attackTimer = 0;
@@ -31,6 +32,7 @@ public class dinoScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        checkEnemyHealth();
         if (pScript.Alive){
           playDino();
         }
@@ -95,6 +97,11 @@ public class dinoScript : MonoBehaviour
     void TurnOffMessage(){
         alertDino.enabled = false;
         //text.text = "!";
+    }
+    void checkEnemyHealth(){
+      if (health <=0){
+        Destroy(this.gameObject);
+      }
     }
     void OnCollisionEnter2D(Collision2D c){
       if(c.gameObject.tag == "EnemyGrid")

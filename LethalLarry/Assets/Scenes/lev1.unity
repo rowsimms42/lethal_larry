@@ -233,7 +233,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -232.8, y: -6.7572}
+  m_AnchoredPosition: {x: -273, y: -6.7572}
   m_SizeDelta: {x: 52.31906, y: 50.730286}
   m_Pivot: {x: 0.0000007599592, y: 0.5}
 --- !u!114 &161158094
@@ -288,7 +288,7 @@ GameObject:
   - component: {fileID: 258696842}
   - component: {fileID: 258696841}
   - component: {fileID: 258696843}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -308,6 +308,7 @@ Transform:
   m_Children:
   - {fileID: 519420032}
   - {fileID: 848343409}
+  - {fileID: 884373379}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -324,6 +325,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 258696835}
+  projectileSpawnPosition: {fileID: 884373379}
   ProjectilePrefab: {fileID: 4549405838318550937, guid: 5b8bfd2b48afa4d03b70b5b40de9b7ff,
     type: 3}
   arrow: {fileID: 4849752613884440680, guid: 5b8bfd2b48afa4d03b70b5b40de9b7ff, type: 3}
@@ -691,7 +693,7 @@ GameObject:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -1669,7 +1671,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -600.2, y: 338.2}
+  m_AnchoredPosition: {x: -491, y: 330}
   m_SizeDelta: {x: -2135.0059, y: -676.257}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &785107819
@@ -1825,7 +1827,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -141, y: -12.3}
+  m_AnchoredPosition: {x: -180, y: -10}
   m_SizeDelta: {x: 69.16388, y: 46.54296}
   m_Pivot: {x: 0.41298294, y: 0.4258924}
 --- !u!114 &851812107
@@ -66513,6 +66515,36 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &884373378
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 884373379}
+  m_Layer: 8
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &884373379
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 884373378}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 258696836}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &895630445
 GameObject:
   m_ObjectHideFlags: 0
@@ -67018,6 +67050,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Projectile
       objectReference: {fileID: 0}
+    - target: {fileID: 4849752613884440680, guid: 5b8bfd2b48afa4d03b70b5b40de9b7ff,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4849752613884440685, guid: 5b8bfd2b48afa4d03b70b5b40de9b7ff,
         type: 3}
       propertyPath: m_RootOrder
@@ -67122,6 +67159,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.033
+      objectReference: {fileID: 0}
+    - target: {fileID: 4849752615150642385, guid: 5b8bfd2b48afa4d03b70b5b40de9b7ff,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b8bfd2b48afa4d03b70b5b40de9b7ff, type: 3}
@@ -67256,6 +67298,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
+  health: 4
   minDistance: 7
   minAttackDistance: 3
   attackCoolDown: 3
@@ -67347,7 +67390,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1283811247}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.655, y: 5.052, z: -69.978745}
+  m_LocalPosition: {x: 10.655, y: 5.052, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1611903559}
@@ -67373,7 +67416,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!1 &1297887715
 GameObject:
@@ -71613,7 +71656,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -116.4, y: 66.4}
+  m_AnchoredPosition: {x: -157, y: 66.4}
   m_SizeDelta: {x: 232.8003, y: 71.023926}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1801382416
@@ -76205,6 +76248,7 @@ GameObject:
   - component: {fileID: 2141590283}
   - component: {fileID: 2141590282}
   - component: {fileID: 2141590286}
+  - component: {fileID: 2141590287}
   m_Layer: 0
   m_Name: Dino
   m_TagString: Enemy
@@ -76225,6 +76269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
+  health: 4
   minDistance: 7
   minAttackDistance: 3
   attackCoolDown: 3
@@ -76317,7 +76362,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2141590281}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.3, y: -4.1, z: -69.978745}
+  m_LocalPosition: {x: -13.3, y: -4.1, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 408002978}
@@ -76343,3 +76388,24 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!50 &2141590287
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2141590281}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 500
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 4

@@ -11,6 +11,7 @@ public class playerScript : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject player;
+    public Transform projectileSpawnPosition;
     public projectileBehavior ProjectilePrefab;
     public GameObject arrow;
     Rigidbody2D body;
@@ -76,22 +77,34 @@ public class playerScript : MonoBehaviour
     }
 
     void fireArrow(){
-      GameObject b = (GameObject) Instantiate(arrow, transform.position, Quaternion.identity);
+
+      GameObject b = (GameObject) Instantiate(arrow, projectileSpawnPosition.position, transform.rotation);
+
       //b.transform.parent = gameObject.transform.parent;
 
       if (lastY < 0 ) {//down{
-        b.GetComponent<Rigidbody2D>().rotation = -80f;
+        //b.transform.eulerAngles = new Vector3(-80,0,0);
+        //b.GetComponent<Rigidbody2D>().rotation = -80f;
+        //b.transform.rotation = Quaternion.LookRotation(projectileSpawnPosition.right * -1);
+        b.transform.eulerAngles = new Vector3(0,0,270);
         b.GetComponent<Rigidbody2D>().AddForce (-transform.up * 1000); //down
       }
       if (lastY > 0) {//up
-        b.GetComponent<Rigidbody2D>().rotation = 80f;
+        //b.transform.eulerAngles = new Vector3(80,0,0);
+        //b.GetComponent<Rigidbody2D>().rotation = 80f;
+        b.transform.eulerAngles = new Vector3(0,0,90);
+        //b.transform.rotation = Quaternion.LookRotation(projectileSpawnPosition.right);
         b.GetComponent<Rigidbody2D>().AddForce (transform.up * 1000);
 
       }
-      if (lastX < 0) //left
+      if (lastX < 0) {//left
+        b.transform.rotation = Quaternion.LookRotation(projectileSpawnPosition.forward * -1);
         b.GetComponent<Rigidbody2D>().AddForce (-transform.right * 1000);
-      if (lastX > 0) //right
+      }
+      if (lastX > 0) {//right
+        b.transform.rotation = Quaternion.LookRotation(projectileSpawnPosition.forward);
         b.GetComponent<Rigidbody2D>().AddForce (transform.right * 1000);
+      }
     }
 
     void FixedUpdate()
