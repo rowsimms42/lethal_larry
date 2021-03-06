@@ -8,6 +8,8 @@ TagManager:
   - Star
   - projectile
   - Enemy
+  - projectilePosition
+  - Hearts
   layers:
   - Default
   - TransparentFX

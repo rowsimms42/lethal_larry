@@ -6,14 +6,15 @@ using UnityEngine;
 using UnityEngine.Events;
 using System;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class playerScript : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject player;
-    public Transform projectileSpawnPosition;
-    public projectileBehavior ProjectilePrefab;
     public GameObject arrow;
+    public Transform projectileSpawnPosition;
+    //public projectileBehavior ProjectilePrefab;
     Rigidbody2D body;
     Animator anim;
     Vector2 movement;
@@ -26,13 +27,22 @@ public class playerScript : MonoBehaviour
     public Vector3 movePosition;
     public float heartCount = 4f;
     public bool alive;
+    public int playerAlive;
+    public Text heartText;
+    public GameObject hearts;
 
     void Start ()
     {
-      body = this.GetComponent<Rigidbody2D>();
-      anim = this.GetComponent<Animator> ();
+      player = GameObject.FindGameObjectWithTag("Player");
+      hearts = GameObject.FindGameObjectWithTag("Hearts");
+
+      playerAlive = 0;
+      body = player.GetComponent<Rigidbody2D>();
+      anim = player.GetComponent<Animator> ();
+      projectileSpawnPosition = player.GetComponent<Transform>();
       lastY = -1;
       alive = true;
+      heartCount = 4f;
     }
 
     void Update()
@@ -52,6 +62,7 @@ public class playerScript : MonoBehaviour
       anim.SetFloat("speed", vf);
 
       checkHealth();
+      //updateHeartCount();
 
       if (movement.x == 1 || movement.x == - 1 || movement.y == 1 || movement.y == -1){
         anim.SetFloat("lastMoveX", movement.x);
@@ -68,42 +79,29 @@ public class playerScript : MonoBehaviour
       }
     }
     void Awake(){
-      GameObject[] obj = GameObject.FindGameObjectsWithTag("Player");
-      DontDestroyOnLoad(this.gameObject);
-      if (FindObjectsOfType (GetType ()).Length > 1)
-      {
-         Destroy (gameObject);
-      }
+      DontDestroyOnLoad (transform.gameObject);
     }
 
     void fireArrow(){
 
       GameObject b = (GameObject) Instantiate(arrow, projectileSpawnPosition.position, transform.rotation);
 
-      //b.transform.parent = gameObject.transform.parent;
-
       if (lastY < 0 ) {//down{
-        //b.transform.eulerAngles = new Vector3(-80,0,0);
-        //b.GetComponent<Rigidbody2D>().rotation = -80f;
-        //b.transform.rotation = Quaternion.LookRotation(projectileSpawnPosition.right * -1);
         b.transform.eulerAngles = new Vector3(0,0,270);
-        b.GetComponent<Rigidbody2D>().AddForce (-transform.up * 1000); //down
+        b.GetComponent<Rigidbody2D>().AddForce (-transform.up * 600); //down
       }
       if (lastY > 0) {//up
-        //b.transform.eulerAngles = new Vector3(80,0,0);
-        //b.GetComponent<Rigidbody2D>().rotation = 80f;
         b.transform.eulerAngles = new Vector3(0,0,90);
-        //b.transform.rotation = Quaternion.LookRotation(projectileSpawnPosition.right);
-        b.GetComponent<Rigidbody2D>().AddForce (transform.up * 1000);
+        b.GetComponent<Rigidbody2D>().AddForce (transform.up * 600);
 
       }
       if (lastX < 0) {//left
         b.transform.rotation = Quaternion.LookRotation(projectileSpawnPosition.forward * -1);
-        b.GetComponent<Rigidbody2D>().AddForce (-transform.right * 1000);
+        b.GetComponent<Rigidbody2D>().AddForce (-transform.right * 600);
       }
       if (lastX > 0) {//right
         b.transform.rotation = Quaternion.LookRotation(projectileSpawnPosition.forward);
-        b.GetComponent<Rigidbody2D>().AddForce (transform.right * 1000);
+        b.GetComponent<Rigidbody2D>().AddForce (transform.right * 600);
       }
     }
 
@@ -122,16 +120,27 @@ public class playerScript : MonoBehaviour
         if(col.gameObject.tag == "Enemy"){
             heartCount = heartCount - 1.0f;
         }
-          //Destroy(gameObject);
     }
 
     void checkHealth(){
       if (heartCount < 0.1){
         anim.SetTrigger("death");
         alive = false;
+        playerAlive++;
         this.enabled = false;
+        StartCoroutine(gameOver());
       }
     }
+
+    public IEnumerator gameOver()
+    {
+      Debug.Log("Going back to game over scene...");
+      yield return new WaitForSeconds(4);
+      SceneManager.LoadScene("GameOver");
+      Destroy(player);
+    }
+
     public float HeartCount{get{return heartCount;}}
     public bool Alive{get{return alive;}}
+    public int AlivePlayer{get{return playerAlive;}}
 }

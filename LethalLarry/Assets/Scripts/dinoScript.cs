@@ -33,7 +33,7 @@ public class dinoScript : MonoBehaviour
     void Update()
     {
         checkEnemyHealth();
-        if (pScript.Alive){
+        if (player.gameObject.GetComponent<playerScript>().heartCount > 0f){
           playDino();
         }
         else{

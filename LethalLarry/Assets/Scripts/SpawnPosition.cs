@@ -14,6 +14,6 @@ public class SpawnPosition : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
