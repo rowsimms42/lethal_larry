@@ -79,6 +79,9 @@ public class playerScript : MonoBehaviour
       }
     }
     void Awake(){
+      //public GameObject player = GameObject.FindGameObjectWithTag("Player");
+      //public Transform projectileSpawnPositionprojectileSpawnPosition = player.GetComponent<Transform>();
+
       DontDestroyOnLoad (transform.gameObject);
     }
 
