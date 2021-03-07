@@ -27,7 +27,7 @@ public class wizardScript : MonoBehaviour
         wizardResponses[0] = "Hello, Larry. \n Please collect 3 stars and bring them to me.";
         wizardResponses[1] = "You have 1 star, 2 more to go.";
         wizardResponses[2] = "2 stars down, 1 more to go.";
-        wizardResponses[3] = "You have all 3 stars. \n I can now free you from this level.";
+        wizardResponses[3] = "I can now free you from this level. \n You may cross the bridge.";
 
         nextLevel = false;
     }

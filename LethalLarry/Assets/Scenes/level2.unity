@@ -155,7 +155,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -335, y: -32}
+  m_AnchoredPosition: {x: -303, y: -32}
   m_SizeDelta: {x: 52.31906, y: 50.730286}
   m_Pivot: {x: 0.0000007599592, y: 0.5}
 --- !u!114 &139388209
@@ -3948,7 +3948,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -243, y: -34}
+  m_AnchoredPosition: {x: -207, y: -33.356}
   m_SizeDelta: {x: 69.16388, y: 46.54296}
   m_Pivot: {x: 0.41298294, y: 0.4258924}
 --- !u!114 &546376110
@@ -30761,7 +30761,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -221, y: 43}
+  m_AnchoredPosition: {x: -186.6, y: 56.359}
   m_SizeDelta: {x: 232.8003, y: 71.023926}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1420056576
@@ -31063,7 +31063,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -371, y: 318}
+  m_AnchoredPosition: {x: -455, y: 338.13}
   m_SizeDelta: {x: -2135.0059, y: -676.257}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1554859244
@@ -31423,9 +31423,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
-  projectileSpawnPosition: {fileID: 0}
-  ProjectilePrefab: {fileID: 0}
   arrow: {fileID: 0}
+  projectileSpawnPosition: {fileID: 0}
   movementSpeed: 5
   movePosition: {x: 0, y: 0, z: 0}
   heartCount: 4
