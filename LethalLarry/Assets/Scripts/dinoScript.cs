@@ -20,6 +20,8 @@ public class dinoScript : MonoBehaviour
     Canvas alertDino;
     public Text text;
     public playerScript pScript;
+    private Vector3 startPosition;
+    public GameObject prefab;
 
     void Start()
     {
@@ -28,6 +30,9 @@ public class dinoScript : MonoBehaviour
         anim = this.GetComponent<Animator> ();
         moving = false;
         alertDino.enabled = false;
+        startPosition = transform.position;
+        
+
     }
     // Update is called once per frame
     void Update()
@@ -111,8 +116,12 @@ public class dinoScript : MonoBehaviour
       }
     }
     public IEnumerator enemyDead(){
-      //anim.SetTrigger("death");
+        //anim.SetTrigger("death");
+      
       yield return new WaitForSeconds(1);
+        if(prefab)
+            Instantiate(prefab, startPosition, transform.rotation);
+        
       Destroy(this.gameObject);
     }
 }
