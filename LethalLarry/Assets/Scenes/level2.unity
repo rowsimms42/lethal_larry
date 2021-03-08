@@ -4195,7 +4195,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fb9b371268c6f1479591de222d56bbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: level3a
+  sceneName: level3
 --- !u!61 &503113395
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10522,7 +10522,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6.95, y: 9.62}
+  m_AnchoredPosition: {x: -11.88, y: 7.86}
   m_SizeDelta: {x: 2, y: 2.0625}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1047479639
@@ -37175,7 +37175,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.38, y: 6.36}
+  m_AnchoredPosition: {x: -1.75, y: 5.58}
   m_SizeDelta: {x: 199.44733, y: 142.788}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2024284107
@@ -37236,7 +37236,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_TargetDisplay: 0
 --- !u!1 &2042227481
 GameObject:

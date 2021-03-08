@@ -39,10 +39,10 @@ public class lev2script : MonoBehaviour
       wall.GetComponent<Collider2D>().enabled = false;
       wall.SetActive(false);
     }
-  }
+  }//
 
   public void goTo3a(){
-    Debug.Log("Going to 3a...");
-    SceneManager.LoadScene("level3a");
+    Debug.Log("Going to 3...");
+    SceneManager.LoadScene("level3");
   }
 }
