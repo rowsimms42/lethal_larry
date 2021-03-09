@@ -6,7 +6,8 @@ using UnityEngine.UI;
 public class dinoScript : MonoBehaviour
 {
     public GameObject player;
-    public int health = 4;
+    public int health;
+    public int maxHealth;
     Animator anim;
     public float minDistance, minAttackDistance, attackCoolDown;
     private float attackTimer = 0;
@@ -19,22 +20,26 @@ public class dinoScript : MonoBehaviour
     [SerializeField]
     Canvas alertDino;
     public Text text;
-    public playerScript pScript;
-    private Vector3 startPosition;
+    private DinoSpawner dinoSpawner;
     public GameObject prefab;
-    public AudioClip dinoDeathClip;
-    private bool isDead = false;
+    public float spawnDelay;
 
-    void Start()
+    public void Start()
     {
+        health = maxHealth;
         player = GameObject.FindGameObjectWithTag("Player");
-        //body = this.GetComponent<Rigidbody2D>();
         anim = this.GetComponent<Animator> ();
         moving = false;
         alertDino.enabled = false;
-        startPosition = transform.position;
-        
-
+        if (!dinoSpawner)
+        {
+          GameObject spawner = new GameObject("spawner");
+          dinoSpawner = spawner.AddComponent<DinoSpawner>();
+          dinoSpawner.prefab = this.gameObject;
+          dinoSpawner.delay = spawnDelay;
+          spawner.transform.position = this.transform.position;
+          spawner.transform.rotation = this.transform.rotation;
+        }
     }
     // Update is called once per frame
     void Update()
@@ -107,24 +112,10 @@ public class dinoScript : MonoBehaviour
     }
     void checkEnemyHealth(){
       if (health <=0 ){
-        StartCoroutine(enemyDead());
+        dinoSpawner.spawnDino();
+        this.gameObject.SetActive(false);
       }
     }
-    void OnCollisionEnter2D(Collision2D c){
-      if(c.gameObject.tag == "EnemyGrid")
-      {
-        moving = false;
-        Debug.Log("colliding w wall");
-      }
-    }
-    public IEnumerator enemyDead(){
-        //anim.SetTrigger("death");
-        //isDead = true;
-      //GetComponent<AudioSource>().PlayOneShot(dinoDeathClip);
-      yield return new WaitForSeconds(2);
-        if(prefab)
-            Instantiate(prefab, startPosition, transform.rotation);
-        
-      Destroy(this.gameObject);
-    }
+
+
 }

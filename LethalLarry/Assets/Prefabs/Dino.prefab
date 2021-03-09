@@ -205,16 +205,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
-  health: 2
+  health: 3
+  maxHealth: 3
   minDistance: 13
   minAttackDistance: 3
   attackCoolDown: 3
   speed: 0.7
   alertDino: {fileID: 3086716995140571586}
   text: {fileID: 3086716994314379242}
-  pScript: {fileID: 0}
   prefab: {fileID: 3086716994686575466}
-  dinoDeathClip: {fileID: 8300000, guid: a73c21a402d8ba7458a38886e4e09272, type: 3}
+  spawnDelay: 3
 --- !u!95 &3086716994686575469
 Animator:
   serializedVersion: 3

@@ -86,7 +86,6 @@ public class playerScript : MonoBehaviour
     }
 
     void fireArrow(){
-     
       GameObject b = (GameObject) Instantiate(arrow, projectileSpawnPosition.position, transform.rotation);
 
       if (lastY < 0 ) {//down{
