@@ -22,6 +22,8 @@ public class dinoScript : MonoBehaviour
     public playerScript pScript;
     private Vector3 startPosition;
     public GameObject prefab;
+    public AudioClip dinoDeathClip;
+    private bool isDead = false;
 
     void Start()
     {
@@ -104,7 +106,7 @@ public class dinoScript : MonoBehaviour
         //text.text = "!";
     }
     void checkEnemyHealth(){
-      if (health <=0){
+      if (health <=0 ){
         StartCoroutine(enemyDead());
       }
     }
@@ -117,8 +119,9 @@ public class dinoScript : MonoBehaviour
     }
     public IEnumerator enemyDead(){
         //anim.SetTrigger("death");
-      
-      yield return new WaitForSeconds(1);
+        //isDead = true;
+      //GetComponent<AudioSource>().PlayOneShot(dinoDeathClip);
+      yield return new WaitForSeconds(2);
         if(prefab)
             Instantiate(prefab, startPosition, transform.rotation);
         
