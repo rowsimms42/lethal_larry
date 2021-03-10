@@ -38,7 +38,11 @@ public class level1script : MonoBehaviour
 
     public void returnToMenu(){
       Debug.Log("Going back to menu...");
+      //Application.Quit();
+      //Destroy(pScript.heartText);
+      //Destroy(pScript.player);
       SceneManager.LoadScene("menu");
+      //Destroy(pScript.player);
     }
 
     public IEnumerator gameOver()
@@ -46,7 +50,7 @@ public class level1script : MonoBehaviour
       Debug.Log("Going back to game over scene...");
       yield return new WaitForSeconds(4);
       SceneManager.LoadScene("GameOver");
-      Destroy(pScript.player);
+      //Destroy(pScript.player);
     }
 
 }

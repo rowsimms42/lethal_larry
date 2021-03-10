@@ -30,6 +30,8 @@ public class playerScript : MonoBehaviour
     public int playerAlive;
     public Text heartText;
     public GameObject hearts;
+    public Scene m_Scene;
+    public string sceneName;
 
     void Start ()
     {
@@ -47,6 +49,9 @@ public class playerScript : MonoBehaviour
 
     void Update()
     {
+      m_Scene = SceneManager.GetActiveScene();
+      sceneName = m_Scene.name;
+      checkScene();
       movement.x = Input.GetAxisRaw("Horizontal");
       movement.y = Input.GetAxisRaw("Vertical");
 
@@ -81,8 +86,20 @@ public class playerScript : MonoBehaviour
     void Awake(){
       //public GameObject player = GameObject.FindGameObjectWithTag("Player");
       //public Transform projectileSpawnPositionprojectileSpawnPosition = player.GetComponent<Transform>();
+      DontDestroyOnLoad(this);
 
-      DontDestroyOnLoad (transform.gameObject);
+      if (FindObjectsOfType(GetType()).Length > 1)
+      {
+        Destroy(gameObject);
+      }
+      //DontDestroyOnLoad (transform.gameObject);
+    }
+
+    void checkScene(){
+      if (sceneName == "menu"){
+        Destroy(heartText);
+        Destroy(gameObject);
+      }
     }
 
     void fireArrow(){

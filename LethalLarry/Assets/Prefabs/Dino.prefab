@@ -209,8 +209,8 @@ MonoBehaviour:
   health: 3
   maxHealth: 3
   minDistance: 13
-  minAttackDistance: 3
-  attackCoolDown: 3
+  minAttackDistance: 2
+  attackCoolDown: 1
   speed: 0.7
   alertDino: {fileID: 3086716995140571586}
   text: {fileID: 3086716994314379242}

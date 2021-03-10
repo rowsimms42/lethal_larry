@@ -9,7 +9,6 @@ public class lev2script : MonoBehaviour
   //private int heartCount = 4;
   [SerializeField]
   Canvas starCanvas;
-  public playerScript pScript;
   public wizardScript wScript;
   public GameObject wall;
   public BoxCollider2D wallCollider;
@@ -31,6 +30,7 @@ public class lev2script : MonoBehaviour
   public void returnToMenu(){
     Debug.Log("Going back to menu...");
     SceneManager.LoadScene("menu");
+    //SceneManager.LoadScene("menu");
   }
 
   void checkNextLevel(){

@@ -5,22 +5,20 @@ using UnityEngine.SceneManagement;
 
 public class menuscript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-
+    [SerializeField]
+    Canvas canvas;
+    void Start(){
+      canvas.gameObject.SetActive(false);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
-
-    public void directionPage(){
+    public void gameInfoPage(){
       Debug.Log("Going to directions...");
-      SceneManager.LoadScene("Options");
+      canvas.gameObject.SetActive(true);
+    }
+
+    public void backToMenu(){
+      Debug.Log("Going to directions...");
+      canvas.gameObject.SetActive(false);
     }
 
     public void playGame(){
