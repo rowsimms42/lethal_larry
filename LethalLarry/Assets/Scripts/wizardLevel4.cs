@@ -51,4 +51,5 @@ public class wizardLevel4 : MonoBehaviour
     messageCanvas.enabled = false;
     text.text = "Press 'i' to interact...";
   }
+  public bool NextLevel{get{return nextLevel;}}
 }

@@ -10,7 +10,7 @@ public class lev4script : MonoBehaviour
     //private int heartCount = 4;
   [SerializeField]
   public playerScript pScript;
-  public wizardScript wScript;
+  public wizardLevel4 wScript4;
   public GameObject wall;
   public BoxCollider2D wallCollider;
   public sceneTransition sceneScript;
@@ -35,7 +35,7 @@ public class lev4script : MonoBehaviour
   }
 
   void checkNextLevel(){
-    if (wScript.NextLevel){
+    if (wScript4.NextLevel){
       wallCollider.enabled = false;
       wall.GetComponent<Collider2D>().enabled = false;
       wall.SetActive(false);

@@ -120,7 +120,7 @@ public class playerScript : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D col)
     {
         if(col.gameObject.tag == "Enemy"){
-            heartCount = heartCount - 1.0f;
+            heartCount = heartCount - 0.5f;
         }
     }
 
